@@ -1,0 +1,9 @@
+Quelques liens :
+
+Documentation sur la bibliothèque Raphael : http://dmitrybaranovskiy.github.io/raphael/reference.html
+
+Pie chart ;
+https://masonoise.wordpress.com/2009/12/29/bar-and-pie-charts-with-raphaeljs/
+
+voir aussi les exemples dans la documentation
+

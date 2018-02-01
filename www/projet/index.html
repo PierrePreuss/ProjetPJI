@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Test sur Raphael</title>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"> </script>
+	
+	<script>
+		window.onload = function(){
+			var paper = new Raphael(document.getElementById('canevas'),600,600);
+			var cercle = paper.circle(300,250,200);
+			cercle.attr({
+				fill : "#F90",
+				stroke : "black",
+				'stroke-width' : 5
+			});
+		};
+		
+			var data = [
+		{ "Genre": "h", "population": "2704659" },
+		{ "Genre": "h", "population": "4499890" },
+		{ "Genre": "h", "population": "2159981" },
+		{ "Genre": "f", "population": "3853788" },
+		{ "Genre": "f", "population": "14106543" },
+		{ "Genre": "f", "population": "8819342" },
+		{ "Genre": "f", "population": "612463" },
+	];
+	
+	</script>	
+	
+	<style>
+		#canevas{
+			border: 1px solid black;
+			margin: 30px auto;
+			width:600px;
+			height:600px;
+		}
+		
+	</style>
+
+
+</head>
+<body>
+	<div id="canevas"></div>
+	
+</body>
+</html>
