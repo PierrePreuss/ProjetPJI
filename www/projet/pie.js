@@ -15,7 +15,7 @@ Raphael.fn.pieChart = function (cx, cy, r, values, labels, stroke) {
         start = 0,
         process = function (j) {
             var value = values[j],
-                angleplus = 360 * value / total,
+                angleplus = 180 * value / total,
                 popangle = angle + (angleplus / 2),
                 color = Raphael.hsb(start, .75, 1),
                 ms = 500,
@@ -49,7 +49,7 @@ $(function () {
         labels = [];
     $("tr").each(function () {
         values.push(parseInt($("td", this).text(), 10));
-        labels.push($("th", this).text());
+        labels.push($("th", this).text() + " " + $("td", this).text());
     });
     $("table").hide();
     Raphael("holder", 700, 700).pieChart(350, 350, 200, values, labels, "#fff");
