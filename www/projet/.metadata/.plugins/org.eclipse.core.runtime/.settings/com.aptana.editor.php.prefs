@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 com.aptana.editor.php.workspaceDefaultLocale=fr_FR
 eclipse.preferences.version=1
+=======
+com.aptana.editor.php.workspaceDefaultLocale=fr_FR
+eclipse.preferences.version=1
+>>>>>>> 34f18a25ebd581ef7ee944f29f4c5c10bd416236

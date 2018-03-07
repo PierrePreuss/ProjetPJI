@@ -1,6 +1,20 @@
 /**
  * @author preus
  */
+
+
+var data1 = [
+{"label": "Homme", "ratio": 60},
+{"label": "Femme", "ratio": 40}
+];
+
+var data2= [
+{"label": "LREM", "ratio":50},
+{"label": "LR", "ratio":20},
+{"label": "FN", "ratio":20},
+{"label": "Insoumis", "ratio":10}
+];
+=======
 /* set up XMLHttpRequest */
 var url = "test.xlsx";
 var oReq = new XMLHttpRequest();
@@ -51,3 +65,4 @@ for(var j=0; j <= XLSX.utils.sheet_to_json(worksheet,).length; j++)
 }
 
 oReq.send();
+>>>>>>> 34f18a25ebd581ef7ee944f29f4c5c10bd416236

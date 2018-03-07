@@ -1,3 +1,4 @@
+
 Raphael.fn.pieChart = function (cx, cy, r, values, labels, stroke) {
     var paper = this,
         rad = Math.PI / 180,
@@ -44,13 +45,31 @@ Raphael.fn.pieChart = function (cx, cy, r, values, labels, stroke) {
     return chart;
 };
 
+
+
+
+
 $(function () {
+	var hash = "";
     var values = [],
-        labels = [];
-    $("tr").each(function () {
-        values.push(parseInt($("td", this).text(), 10));
-        labels.push($("th", this).text() + " " + $("td", this).text());
-    });
+        labels = [],
+        data =[];
+        
+    $('#rec').change(function() {  
+    var hash = $(this).find("option:selected").val();
+    var data = data+hash;
+		//if (hash == 2) {
+			//var data = data2;
+	//}
+	});
+        
+
+for (var j = 0; j < data.length; j++){
+         values.push(parseInt(data[j].ratio, 10));
+        labels.push(data[j].label + " " + data[j].ratio);
+    }
     $("table").hide();
     Raphael("holder", 700, 700).pieChart(350, 350, 200, values, labels, "#fff");
+    
+
 });
