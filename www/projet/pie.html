@@ -1,71 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+
     <head>
         <meta charset="utf-8">
+		
         <title>Raphaël · Pie Chart - Test</title>
+		
+		<link rel="stylesheet" type="text/css" href="fds.css">
+		
         <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
         <script src="xlsx.full.min.js"></script>
-        <script src="donne.js"> </script> 
         <script src="jquery.js"></script>
-        <script src="pie.js"></script>
-        <style media="screen">
-            #holder {
-                margin: auto;
-                width: 700px;
-                height: 700px;
-            }
-        </style>
+				
+		
     </head>
     <body>
-    	<div id="recherche">
-
-        <select name="rec" id="rec" data-placeholder="Choisissez une analyse">
-        <option value="">Choisissez une analyse</option>
-        <option value="1">Homme/Femme</option>
-        <option value="2">Partie Politique</option>
-
-        </select>
-
-        </div>
+	
+		<div id="recherche">
+		
+			<select name="rech" id="rech">
+				<option value="">Choisissez une analyse</option>
+				<option value="1">Homme/Femme</option>
+				<option value="2">Partie Politique</option>
+			</select>
+		</div>
+		
         <div id="holder"></div>
+		
     </body>
+	
+	 <script src="donne.js"></script>
+	 <script src="pie.js"></script>
+	
 </html>
-<!--
-=======
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>Raphaël · Pie Chart - Test</title>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
-        <script src="xlsx.full.min.js"></script>
-        <script src="donnescsv"> </script> 
-        <script src="jquery.js"></script>
-        <script src="pie.js"></script>
-        <style media="screen">
-            #holder {
-                margin: auto;
-                width: 700px;
-                height: 700px;
-            }
-        </style>
-    </head>
-    <body>
-        <table>
-            <tbody>
-                <tr>
-                    <th scope="row">Femme</th>
-                    <td>40%</td>
-                </tr>
-                <tr>
-                    <th scope="row">Homme</th>
-                    <td>60%</td>
-                </tr>
-
-            </tbody>
-        </table>
-        <div id="holder"></div>
-    </body>
-</html>
->>>>>>> 34f18a25ebd581ef7ee944f29f4c5c10bd416236
--->

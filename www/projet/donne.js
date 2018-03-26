@@ -1,13 +1,52 @@
 var data1 = [
-{"label": "Homme", "ratio": 60},
-{"label": "Femme", "ratio": 40}
-];
-
-var data2= [
-{"label": "LREM", "ratio":50},
-{"label": "LR", "ratio":20},
-{"label": "FN", "ratio":20},
-{"label": "Insoumis", "ratio":10}
+ {"ratio": 30, "label": "homme"},
+ {"ratio": 70, "label": "femme"}
 ];
 
 
+
+var data2 = [
+ {"ratio": 3, "label": "NI"},
+ {"ratio": 17, "label": "Républicain"},
+ {"ratio": 5, "label": "Les Constructifs"},
+ {"ratio": 8, "label": "MoDem"},
+ {"ratio": 54, "label": "La République en marche"},
+ {"ratio": 5, "label": "NG"},
+ {"ratio": 3, "label": "FI"},
+ {"ratio": 3, "label": "GDR"}
+];
+
+
+
+$(function () {
+	
+  
+
+$('#rech').change(function(){
+	  var values = [],
+        labels = [];
+		
+		var data =[];
+		
+		$("#holder").html("");
+		
+    var hash = $(this).find("option:selected").val();
+	
+        if (hash == 1) {
+             data =  data1;
+		}else{
+			if(hash == 2) data = data2;
+		}
+	
+
+		
+    for (var j = 0; j < data.length; j++){
+		 values.push(parseInt(data[j].ratio, 10));
+        labels.push(data[j].label + " " + data[j].ratio +"%");
+	}
+       
+
+    $("table").hide();
+    Raphael("holder", 700, 700).pieChart(350, 350, 200, values, labels, "#fff");
+	});
+});
