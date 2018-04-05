@@ -56,8 +56,12 @@ $('#rech').change(function(){
     for (var j = 0; j < data.length; j++){
 		 values.push(parseInt(data[j].ratio, 10));
         labels.push(data[j].label + " " + data[j].ratio +"%");
-        
-        document.getElementById('legende' ).append(labels[j] + " | ");
+
+	}
+	
+	var k = data.length;
+    for (var i = k-1; i >=0; i--){
+        document.getElementById('legende' ).append(labels[i] + " | ");
 	}
        
 
