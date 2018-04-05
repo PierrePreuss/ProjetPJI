@@ -56,6 +56,8 @@ $('#rech').change(function(){
     for (var j = 0; j < data.length; j++){
 		 values.push(parseInt(data[j].ratio, 10));
         labels.push(data[j].label + " " + data[j].ratio +"%");
+        
+        document.getElementById('legende' ).append(labels[j] + " | ");
 	}
        
 
