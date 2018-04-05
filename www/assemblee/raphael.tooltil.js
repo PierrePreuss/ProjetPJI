@@ -1,6 +1,7 @@
 /**
- * @author preus
+ * @author code issus du site http://www2.assemblee-nationale.fr/deputes/hemicycle
  */
+ 
 Raphael.el.tooltip = function (tp) {
 this.tp = tp;
 this.tp.ox = 0;

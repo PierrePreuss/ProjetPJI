@@ -1,3 +1,8 @@
+/**
+ * @author hayaert thomas/ preuss pierre
+ */
+
+
 var data1 = [
  {"ratio": 30, "label": "homme"},
  {"ratio": 70, "label": "femme"}
@@ -30,10 +35,18 @@ $('#rech').change(function(){
 		
 		$("#holder").html("");
 		
+		
+		/*data= $(this).find("option:selected").val();
+		console.log(data);
+		*/
+		
+		
     var hash = $(this).find("option:selected").val();
+    
 	
         if (hash == 1) {
              data =  data1;
+             console.log(data);
 		}else{
 			if(hash == 2) data = data2;
 		}

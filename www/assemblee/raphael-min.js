@@ -1,5 +1,5 @@
 /**
- * @author preus
+ * @author code issus du site http://www2.assemblee-nationale.fr/deputes/hemicycle
  */
 // ┌────────────────────────────────────────────────────────────────────┐ \\
 // │ Raphaël 2.1.4 - JavaScript Vector Library                          │ \\

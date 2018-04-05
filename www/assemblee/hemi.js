@@ -1,8 +1,10 @@
-/**
- * @author preus
+ /**
+ * @author code issus du site http://www2.assemblee-nationale.fr/deputes/hemicycle
  */
+
  $(document).ready(function() 
   {
+ 
 	var hemicycle = new Raphael(document.getElementById('hemicycle'), 900, 600);
   	var hemi={};
 	
@@ -1241,13 +1243,9 @@
 			
 			
 			
-			var hash= 's0';
-			var i=0;
-			for(i=0;i<590;i++){
-				hemi[hash].attr({fill: "#B53333", stroke: "#ffffff"});
-				
-				hemi[hash]=hemi[hash].next;
-			}
+			
+			
+
 				
 	var current = null;
 	var trans="";
@@ -1259,8 +1257,31 @@
 	var essai=hemicycle.set();
 	
 	
+	couleur(hemi);
 	
+	/*
+	var i=1;
+		for(i=1;i<651;i++){
+			var hash= "s"+i;
+			console.log(siege[i]);
+			
+		if(typeof siege[i] == 'undefined'){
 	
+		}else{
+			hemi[hash].attr(siege[i]);
+		}
+				
+		}
+		*/
+			
+			/*
+			
+			for(i=1;i<641;i++){
+			 var hash= "s"+i;
+				hemi[hash].attr(siege[i]);
+				
+				hemi[hash]=hemi[hash].next;
+			}*/
 	
 	 
 /*
@@ -1281,7 +1302,6 @@
 					
 				}
 			});
-
 			
 			for (var state in hemi) 
 			{
@@ -1376,7 +1396,6 @@ function aper(obj,couleur,de,pl)
 			else{obj.attr({"title": ""}).attr({"title": dep[0].civ + " " + dep[0].nom + " (" + pl + ")"})}
 	}		
 };
-
 // animation de la photo
 function anim(obj,set1,set2,set3,set4,paper)
 {
@@ -1395,7 +1414,6 @@ function anim(obj,set1,set2,set3,set4,paper)
 		set3.push(paper.text((obj.getBBox().width/2)+obj.getBBox().x,(obj.getBBox().height/2)+obj.getBBox().y,obj.data("num"))).attr({"font-size":8,fill: "#000"}).toFront();
 		set4.push(paper.image(obj.data("image"),obj.getBBox().x,obj.getBBox().y,49,64));
 	}
-
 	trans="T" + (398 - set4.getBBox().x) + ",0" + "T0," + (366 - set4.getBBox().y) + "s2";
 	obj.animate({fill: "#CBCBCB", stroke: "#ffffff"}, 300);
 	var anim = Raphael.animation({transform:trans},1500,"backOut",function()
@@ -1412,9 +1430,7 @@ function anim(obj,set1,set2,set3,set4,paper)
 				set1.remove().push(set4.pop());
 			});
 	set4.animate(anim.delay(100)).attr({"title":"Cliquez ici pour accéder à sa fiche","href":obj.data("lien")});
-
 };
-
 //initialisation du select des députés
 function recherche(de)
 {
@@ -1423,9 +1439,7 @@ function recherche(de)
 	$("#rec").append(options);
 	$(".chzn-select").chosen({no_results_text: "Aucun résultat"});
 }
-
 // 
-
 function filtre(obj,num_place) {
 	var dep_obj=$(obj).filter(function()
 	 {

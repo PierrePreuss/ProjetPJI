@@ -1,3 +1,7 @@
+/**
+ * @author hayaert thomas/ preuss pierre
+ */
+
 Raphael.fn.pieChart = function (cx, cy, r, values, labels, stroke) {
     var paper = this,
         rad = Math.PI / 180,
