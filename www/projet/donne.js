@@ -34,7 +34,7 @@ $('#rech').change(function(){
 		var data =[];
 		
 		$("#holder").html("");
-		
+		$("#legende").html("");
 		
 		/*data= $(this).find("option:selected").val();
 		console.log(data);
