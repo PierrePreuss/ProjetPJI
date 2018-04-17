@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workbench progressCount="40" version="2.0">
 <workbenchAdvisor/>
-<window height="728" maximized="true" width="1200" x="78" y="0">
+<window height="735" width="697" x="676" y="0">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
 </perspectiveBar>
 <coolbarLayout>
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="22"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="289" y="22"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="137" y="22"/>
 <coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="84" y="22"/>
@@ -17,7 +17,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="91" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="com.aptana.editor.php" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.php" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="com.aptana.editor.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="com.aptana.editor.js" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="com.aptana.editor.css" itemType="typePlaceholder" x="-1" y="-1"/>
@@ -30,29 +30,34 @@
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
 <part id="2"/>
+<part id="1"/>
 <part id="3"/>
+<part id="0"/>
+<part id="4"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="com.aptana.editor.js" name="jquery.js" partName="jquery.js" title="jquery.js" tooltip="C:\wamp64\www\projet\jquery.js" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/wamp64/www/projet/jquery.js"/>
+<editor id="com.aptana.editor.js" name="couleur.js" partName="couleur.js" title="couleur.js" tooltip="C:\wamp64\www\assemblee\couleur.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/wamp64/www/assemblee/couleur.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="15" selectionOffset="232" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.js" name="hemi.js" partName="hemi.js" title="hemi.js" tooltip="C:\wamp64\www\assemblee\hemi.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/wamp64/www/assemblee/hemi.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="20879"/>
+</editor>
+<editor id="com.aptana.editor.html" name="hemicycle.html" partName="hemicycle.html" title="hemicycle.html" tooltip="C:\wamp64\www\assemblee\hemicycle.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/wamp64/www/assemblee/hemicycle.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="200322" selectionOffset="0" selectionTopPixel="80854"/>
+</editor>
+<editor id="com.aptana.editor.js" name="svg.js" partName="svg.js" title="svg.js" tooltip="C:\wamp64\www\assemblee\svg.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/wamp64/www/assemblee/svg.js"/>
 <editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
 </editor>
-<editor id="com.aptana.editor.html" name="pie.html" partName="pie.html" title="pie.html" tooltip="C:\wamp64\www\projet\pie.html" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/wamp64/www/projet/pie.html"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="556" selectionTopPixel="0"/>
-</editor>
-<editor id="com.aptana.editor.js" name="pie.js" partName="pie.js" title="pie.js" tooltip="C:\wamp64\www\projet\pie.js" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/wamp64/www/projet/pie.js"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="516"/>
-</editor>
-<editor activePart="true" focus="true" id="com.aptana.editor.js" name="donnescsv" partName="donnescsv" title="donnescsv" tooltip="C:\wamp64\www\projet\donnescsv" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/wamp64/www/projet/donnescsv"/>
-<editorState selectionHorizontalPixel="0" selectionLength="10" selectionOffset="1136" selectionTopPixel="465"/>
+<editor activePart="true" focus="true" id="com.aptana.editor.php" name="test.php" partName="test.php" title="test.php" tooltip="C:\wamp64\www\assemblee\test.php" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/C:/wamp64/www/assemblee/test.php"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="195296" selectionTopPixel="81073"/>
 </editor>
 </editors>
 <views>
@@ -82,8 +87,8 @@
 <viewState/>
 </view>
 </views>
-<perspectives activePart="com.aptana.editor.js" activePerspective="com.aptana.ui.WebPerspective">
-<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<perspectives activePart="com.aptana.editor.php" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="1" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
 <alwaysOnActionSet id="com.aptana.browser.actionSet"/>
 <alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
@@ -122,26 +127,36 @@
 <new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
 <perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="com.aptana.explorer.view"/>
-<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
-<view id="org.eclipse.ui.console.ConsoleView"/>
-<view id="com.aptana.terminal.views.terminal"/>
-<view id="org.eclipse.ui.views.ProblemView"/>
-<view id="org.eclipse.ui.views.ContentOutline"/>
-<view id="com.aptana.samples.ui.SamplesView"/>
-<view id="com.aptana.snippets.ui.views.SnippetsView"/>
-<fastViewBars/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="terminalArea" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="1">
+<fastViews>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+<view id="com.aptana.terminal.views.terminal" ratio="0.3"/>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="left" orientation="512" selectedTabId="com.aptana.explorer.view" style="1">
+<fastViews>
+<view id="com.aptana.explorer.view" ratio="0.3"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="1024" id="org.eclipse.ui.internal.ViewStack@c5575" orientation="256" selectedTabId="org.eclipse.ui.views.ContentOutline" style="1">
+<fastViews>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+<view id="com.aptana.samples.ui.SamplesView" ratio="0.3"/>
+<view id="com.aptana.snippets.ui.views.SnippetsView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
 <layout>
 <mainWindow>
 <info folder="true" part="left">
-<folder activePageID="com.aptana.explorer.view" appearance="2" expanded="2">
-<page content="com.aptana.explorer.view" label="App Explorer"/>
-<page content="org.eclipse.ui.navigator.ProjectExplorer" label="Project Explorer"/>
+<folder appearance="2" expanded="0">
+<page content="com.aptana.explorer.view" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
 <page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="882" ratioRight="294" relationship="2" relative="left">
@@ -153,29 +168,21 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.19982994" ratioLeft="235" ratioRight="941" relationship="2" relative="left"/>
 <info folder="true" part="terminalArea" ratio="0.80613893" ratioLeft="499" ratioRight="120" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
-<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
-<page content="com.aptana.terminal.views.terminal" label="Terminal"/>
-<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="com.aptana.terminal.views.terminal" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
 <page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-</presentation>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@c5575" ratio="0.7496063" ratioLeft="476" ratioRight="159" relationship="4" relative="left">
-<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
-<page content="com.aptana.samples.ui.SamplesView" label="Samples"/>
-<page content="com.aptana.snippets.ui.views.SnippetsView" label="Snippets"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
-<part id="0"/>
-<part id="1"/>
-<part id="2"/>
-</presentation>
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="com.aptana.samples.ui.SamplesView" label="LabelNotFound"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
 </mainWindow>
@@ -185,156 +192,162 @@
 <workingSets/>
 <navigationHistory>
 <editors>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/C:/wamp64/www/projet/pie.html"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/wamp64/www/projet/pie.js"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/C:/wamp64/www/projet/pie.html"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/wamp64/www/projet/test.php"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/wamp64/www/projet/jquery.js"/>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/wamp64/www/projet/donnescsv"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/C:/wamp64/www/assemblee/hemicycle.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/wamp64/www/assemblee/test.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.php" uri="file:/C:/wamp64/www/assemblee/test2.php"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/wamp64/www/assemblee/couleur.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/wamp64/www/assemblee/svg.js"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" uri="file:/C:/wamp64/www/assemblee/hemi.js"/>
 </editors>
-<item historyLabel="pie.js" index="1">
-<position info="not_deleted" x="2249" y="0"/>
+<item historyLabel="test.php" index="1">
+<position info="not_deleted" x="195856" y="0"/>
 </item>
-<item historyLabel="pie.js" index="1">
-<position info="not_deleted" x="2256" y="0"/>
+<item historyLabel="test2.php" index="2">
+<position info="not_deleted" x="371" y="0"/>
 </item>
-<item historyLabel="pie.js" index="1">
-<position info="not_deleted" x="2236" y="0"/>
+<item historyLabel="test.php" index="1">
+<position info="not_deleted" x="195856" y="0"/>
 </item>
-<item historyLabel="pie.html" index="0">
-<position info="not_deleted" x="654" y="0"/>
+<item historyLabel="test2.php" index="2">
+<position info="not_deleted" x="364" y="0"/>
 </item>
-<item historyLabel="pie.js" index="1">
-<position info="not_deleted" x="2236" y="0"/>
+<item historyLabel="test.php" index="1">
+<position info="not_deleted" x="195856" y="0"/>
 </item>
-<item historyLabel="pie.html" index="2">
-<position info="not_deleted" x="556" y="0"/>
+<item historyLabel="test2.php" index="2">
+<position info="not_deleted" x="364" y="0"/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="31" y="0"/>
+<item historyLabel="test.php" index="1">
+<position info="not_deleted" x="195856" y="0"/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="35" y="0"/>
+<item historyLabel="test2.php" index="2">
+<position info="not_deleted" x="364" y="0"/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="36" y="0"/>
+<item historyLabel="test2.php" index="2">
+<position info="not_deleted" x="91" y="0"/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="81" y="0"/>
+<item historyLabel="test.php" index="1">
+<position/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="82" y="0"/>
+<item historyLabel="test2.php" index="2">
+<position info="not_deleted" x="98" y="0"/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="149" y="0"/>
+<item historyLabel="test.php" index="1">
+<position/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="176" y="0"/>
+<item historyLabel="test2.php" index="2">
+<position info="not_deleted" x="80" y="0"/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="205" y="0"/>
+<item historyLabel="test.php" index="1">
+<position/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="232" y="0"/>
+<item historyLabel="test.php" index="1">
+<position/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="267" y="0"/>
+<item historyLabel="test.php" index="1">
+<position/>
 </item>
-<item historyLabel="pie.html" index="2">
-<position info="not_deleted" x="556" y="0"/>
+<item historyLabel="test.php" index="1">
+<position/>
 </item>
-<item historyLabel="jquery.js" index="4">
+<item historyLabel="test.php" index="1">
+<position/>
+</item>
+<item historyLabel="test.php" index="1">
+<position/>
+</item>
+<item historyLabel="test.php" index="1">
+<position info="not_deleted" x="218" y="0"/>
+</item>
+<item historyLabel="test.php" index="1">
+<position/>
+</item>
+<item historyLabel="test.php" index="1">
+<position/>
+</item>
+<item historyLabel="hemicycle.html" index="0">
+<position info="not_deleted" x="199957" y="0"/>
+</item>
+<item historyLabel="couleur.js" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="pie.html" index="2">
-<position info="not_deleted" x="556" y="0"/>
+<item historyLabel="hemicycle.html" index="0">
+<position info="not_deleted" x="199957" y="0"/>
 </item>
-<item historyLabel="pie.js" index="1">
+<item historyLabel="hemicycle.html" index="0">
 <position/>
 </item>
-<item historyLabel="test.php" index="3">
-<position info="not_deleted" x="247" y="0"/>
+<item historyLabel="hemicycle.html" index="0">
+<position info="not_deleted" x="0" y="200322"/>
 </item>
-<item historyLabel="pie.js" index="1">
-<position/>
+<item historyLabel="test.php" index="1">
+<position info="not_deleted" x="195373" y="11"/>
 </item>
-<item historyLabel="pie.html" index="2">
-<position info="not_deleted" x="556" y="0"/>
-</item>
-<item historyLabel="pie.js" index="1">
-<position/>
-</item>
-<item historyLabel="pie.html" index="2">
-<position info="not_deleted" x="556" y="0"/>
-</item>
-<item historyLabel="pie.html" index="2">
-<position info="not_deleted" x="270" y="0"/>
-</item>
-<item historyLabel="pie.js" index="1">
-<position/>
-</item>
-<item historyLabel="pie.html" index="2">
-<position info="not_deleted" x="270" y="0"/>
-</item>
-<item historyLabel="pie.js" index="1">
-<position/>
-</item>
-<item historyLabel="pie.html" index="2">
-<position info="not_deleted" x="439" y="0"/>
-</item>
-<item historyLabel="pie.js" index="1">
-<position/>
-</item>
-<item historyLabel="pie.html" index="2">
-<position info="not_deleted" x="556" y="0"/>
-</item>
-<item historyLabel="pie.js" index="1">
+<item historyLabel="couleur.js" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="donnescsv" index="5">
-<position info="not_deleted" x="467" y="0"/>
+<item historyLabel="test.php" index="1">
+<position info="not_deleted" x="195376" y="0"/>
 </item>
-<item historyLabel="pie.html" index="2">
-<position info="not_deleted" x="556" y="0"/>
+<item historyLabel="couleur.js" index="3">
+<position info="not_deleted" x="232" y="26"/>
 </item>
-<item historyLabel="donnescsv" index="5">
-<position info="not_deleted" x="467" y="0"/>
-</item>
-<item historyLabel="donnescsv" index="5">
+<item historyLabel="test.php" index="1">
 <position/>
 </item>
-<item historyLabel="donnescsv" index="5">
-<position/>
+<item historyLabel="couleur.js" index="3">
+<position info="not_deleted" x="232" y="26"/>
 </item>
-<item historyLabel="donnescsv" index="5">
-<position/>
-</item>
-<item historyLabel="pie.js" index="1">
+<item historyLabel="svg.js" index="4">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="donnescsv" index="5">
-<position info="not_deleted" x="1114" y="0"/>
-</item>
-<item historyLabel="donnescsv" index="5">
+<item historyLabel="test.php" index="1">
 <position/>
 </item>
-<item historyLabel="donnescsv" index="5">
+<item historyLabel="couleur.js" index="3">
+<position info="not_deleted" x="232" y="26"/>
+</item>
+<item historyLabel="test.php" index="1">
 <position/>
 </item>
-<item historyLabel="donnescsv" index="5">
-<position info="not_deleted" x="1045" y="0"/>
+<item historyLabel="test.php" index="1">
+<position info="not_deleted" x="195375" y="0"/>
 </item>
-<item historyLabel="donnescsv" index="5">
-<position info="not_deleted" x="1146" y="0"/>
+<item historyLabel="couleur.js" index="3">
+<position info="not_deleted" x="232" y="26"/>
 </item>
-<item historyLabel="donnescsv" index="5">
-<position info="not_deleted" x="1146" y="0"/>
+<item historyLabel="test.php" index="1">
+<position/>
 </item>
-<item historyLabel="donnescsv" index="5">
-<position info="not_deleted" x="1146" y="0"/>
+<item historyLabel="couleur.js" index="3">
+<position info="not_deleted" x="232" y="26"/>
 </item>
-<item active="true" historyLabel="donnescsv" index="5">
-<position info="not_deleted" x="1145" y="0"/>
+<item historyLabel="hemi.js" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="svg.js" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="test.php" index="1">
+<position/>
+</item>
+<item historyLabel="hemi.js" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="test.php" index="1">
+<position/>
+</item>
+<item historyLabel="couleur.js" index="3">
+<position info="not_deleted" x="232" y="15"/>
+</item>
+<item historyLabel="test.php" index="1">
+<position info="not_deleted" x="195295" y="0"/>
+</item>
+<item historyLabel="svg.js" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="test.php" index="1">
+<position info="not_deleted" x="195295" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -342,6 +355,9 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -349,10 +365,27 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="terminalArea"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@c5575"/>
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="sexe.js" tooltip="C:\wamp64\www\assemblee\sexe.js">
+<persistable uri="file:/C:/wamp64/www/assemblee/sexe.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="svg.js" tooltip="C:\wamp64\www\assemblee\svg.js">
+<persistable uri="file:/C:/wamp64/www/assemblee/svg.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="hemicycle.html" tooltip="C:\wamp64\www\assemblee\hemicycle.html">
+<persistable uri="file:/C:/wamp64/www/assemblee/hemicycle.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="hemi.js" tooltip="C:\wamp64\www\assemblee\hemi.js">
+<persistable uri="file:/C:/wamp64/www/assemblee/hemi.js"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="couleur.js" tooltip="C:\wamp64\www\assemblee\couleur.js">
+<persistable uri="file:/C:/wamp64/www/assemblee/couleur.js"/>
+</file>
 <file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.js" name="pie.js" tooltip="C:\wamp64\www\projet\pie.js">
 <persistable uri="file:/C:/wamp64/www/projet/pie.js"/>
 </file>

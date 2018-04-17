@@ -1,0 +1,579 @@
+id_em,pre.nom,age,naissance.annee,sexe,groupe.syco,ProfSigni2,nb.collab,nb.cab,nb.cm,nb.maire,nb.cg,nb.cr,nb.dep,nb.sen,nb.mep,nb.gouv,commission,siège,nom
+1,cedric roussel,45,1972,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,cult_educ,309,Cédric Roussel
+2,nadia hai,37,1980,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,finances,349,Nadia Hai
+3,pascale fontenel personne,55,1962,F,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_eco,463,Pascale Fontenel-Personne
+4,laurent pietraszewski,51,1966,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,371,Laurent Pietraszewski
+5,guillaume kasbarian,30,1987,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,458,Guillaume Kasbarian
+6,cyrille isaac sibille,59,1958,M,MODEM,proflib,0,0,22,0,0,0,0,0,0,0,aff_soc,184,Cyrille Isaac-Sibille
+7,guillaume vuilletet,50,1967,M,LREM,collab,12,3,7,0,0,12,0,0,0,0,lois,373,Guillaume Vuilletet
+8,olivier faure,49,1968,M,NG,cadsupprive,16,6,5,0,0,0,5,0,0,0,defense,499,Olivier Faure
+9,pierre alain raphan,34,1983,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,cult_educ,269,Pierre-Alain Raphan
+10,Antoine Savignat,43,1875,H,LR,proflib,0,0,3,0,0,0,0,0,0,0,defense,XX,
+11,emmanuelle anthoine,53,1964,F,LR,proflib,0,0,3,0,7,0,0,0,0,0,cult_educ,63,Emmanuelle Anthoine
+12,anne christine lang,56,1961,F,LREM,profsecondaire,0,2,16,0,1,0,3,0,0,0,cult_educ,282,Anne-Christine Lang
+13,laurence vichnievsky,62,1955,F,MODEM,cadsuppub,0,1,0,0,0,2,0,0,0,0,lois,261,Laurence Vichnievsky
+14,olivier dassault,66,1951,M,LR,artisan commercant chef entrep,0,0,8,0,19,2,25,0,0,0,aff_etranger,100,Olivier Dassault
+15,berangere abba,41,1976,F,LREM,cadinterprive,0,0,3,0,0,0,0,0,0,0,dvp_durable,600,Bérangère Abba
+16,barbara bessot ballot,45,1972,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,268,Barbara Bessot Ballot
+17,laurent saint martin,32,1985,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,finances,345,Laurent Saint-Martin
+18,carole bureau bonnard,52,1965,F,LREM,proflib,0,0,9,0,0,0,0,0,0,0,defense,288,Carole Bureau-Bonnard
+19,annaig le meur,44,1973,F,LREM,proflib,0,0,0,0,0,0,0,0,0,0,aff_eco,318,Annaïg Le Meur
+20,jean paul lecoq,59,1958,M,GDR,cadinterpub,0,0,7,22,0,5,6,0,0,0,aff_etranger,584,Jean-Paul Lecoq
+21,bertrand sorre,52,1965,M,LREM,profsecondaire,0,0,14,3,0,0,0,0,0,0,cult_educ,559,Bertrand Sorre
+22,gabriel serville,58,1959,M,GDR,profsecondaire,0,0,7,3,0,3,5,0,0,0,dvp_durable,597,Gabriel Serville
+23,aurore berge,31,1986,F,LREM,collab,2,0,3,0,0,0,0,0,0,0,cult_educ,462,Aurore Bergé
+24,bruno duverge,60,1957,M,MODEM,cadsupprive,0,0,0,9,9,0,0,0,0,0,dvp_durable,171,Bruno Duvergé
+25,Michele Victory,58,1958,F,NG,profsecondaire,0,0,0,0,0,0,0,0,0,0,affaires culturelles,512,Michele Victory
+26,martine wonner,53,1964,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,488,Martine Wonner
+27,christian hutin,56,1961,M,NG,proflib,0,0,6,22,0,10,10,0,0,0,aff_etranger,497,Christian Hutin
+28,alain tourret,70,1947,M,LREM,proflib,0,0,0,36,0,21,11,0,0,0,lois,193,Alain Tourret
+29,paul molac,55,1962,M,LREM,profsecondaire,0,0,0,0,1,2,5,0,0,0,lois,448,Paul Molac
+30,christophe euzet,50,1967,M,LREM,profscientif,0,0,0,0,0,0,0,0,0,0,lois,312,Christophe Euzet
+31,jean marc zulesi,29,1988,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,dvp_durable,305,Jean-Marc Zulesi
+32,damien abad,37,1980,M,LR,collab,4,0,3,0,1,6,5,0,4,0,defense,78,Damien Abad
+33,fabrice le vigoureux,48,1969,M,LREM,profscientif,0,0,7,0,0,0,0,0,0,0,finances,468,Fabrice Le Vigoureux
+34,bertrand pancher,59,1958,M,LC,collab,2,6,15,10,13,0,10,0,0,0,dvp_durable,103,Bertrand Pancher
+35,anne laure cattelot,29,1988,F,LREM,collab,5,0,0,0,0,0,0,0,0,0,finances,211,Anne-Laure Cattelot
+36,mohamed laqhila,58,1959,M,MODEM,proflib,0,0,0,0,0,0,0,0,0,0,finances,250,Mohamed Laqhila
+37,loic kervran,33,1984,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,defense,388,Loïc Kervran
+38,francois michel lambert,51,1966,M,LREM,cadinterprive,0,1,6,0,0,0,5,0,0,0,dvp_durable,359,François-Michel Lambert
+39,valerie oppelt,44,1973,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,614,Valérie Oppelt
+40,bruno questel,51,1966,M,LREM,collab,7,4,22,15,12,0,0,0,0,0,lois,383,Bruno Questel
+41,geraldine bannier,38,1979,F,MODEM,profsecondaire,0,0,0,3,0,0,0,0,0,0,cult_educ,163,Géraldine Bannier
+42,xavier breton,55,1962,M,LR,collab,18,0,16,0,0,2,10,0,0,0,lois,41,Xavier Breton
+43,caroline abadie,41,1976,F,LREM,cadinterprive,0,0,0,0,0,0,0,0,0,0,lois,200,Caroline Abadie
+44,pierre vatin,50,1967,M,LR,collab,0,0,0,0,0,0,0,0,0,0,dvp_durable,31,Pierre Vatin
+45,claire pitollat,38,1979,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,524,Claire Pitollat
+46,meyer habib,56,1961,M,LC,cadsupprive,0,0,0,0,0,0,4,0,0,0,aff_etranger,144,Meyer Habib
+47,philippe gosselin,51,1966,M,LR,NA,0,0,7,22,0,0,10,0,0,0,lois,27,Philippe Gosselin
+48,sylvain waserman,50,1967,M,MODEM,cadinterprive,0,0,0,9,0,2,0,0,0,0,aff_etranger,267,Sylvain Waserman
+49,rodrigue kokouendo,43,1974,M,LREM,cadsupprive,0,0,7,0,0,0,0,0,0,0,aff_etranger,245,Rodrigue Kokouendo
+50,cecile rilhac,43,1974,F,LREM,profsecondaire,0,0,0,0,0,0,0,0,0,0,cult_educ,344,Cécile Rilhac
+51,marietta karamanli,53,1964,F,NG,profscientif,0,0,28,0,11,0,10,0,0,0,lois,502,Marietta Karamanli
+52,joel aviragnet,61,1956,M,NG,cadinterpub,0,0,8,9,0,0,2,0,0,0,aff_soc,,
+53,vincent descoeur,55,1962,M,LR,profsecondaire,0,0,8,13,29,0,6,0,0,0,dvp_durable,3,Vincent Descoeur
+54,valerie gomez bassac,48,1969,F,LREM,profscientif,0,0,0,0,0,0,0,0,0,0,cult_educ,242,Valérie Gomez-Bassac
+55,christian jacob,58,1959,M,LR,agri,0,0,5,13,0,0,22,0,0,6,defense,94,Christian Jacob
+56,philippe latombe,42,1975,M,MODEM,cadsupprive,0,0,0,0,0,0,0,0,0,0,lois,253,Philippe Latombe
+57,marie christine dalloz,59,1958,F,LR,cadinterprive,0,0,0,14,13,0,10,0,0,0,finances,16,Marie-Christine Dalloz
+58,thibault bazin,33,1984,M,LR,cadsupprive,0,0,0,9,2,0,0,0,0,0,defense,12,Thibault Bazin
+59,delphine bagarry,47,1970,F,LREM,proflib,0,0,14,0,2,0,0,0,0,0,aff_soc,486,Delphine Bagarry
+60,marianne dubois,60,1957,F,LR,NA,0,0,7,8,2,0,8,0,0,0,defense,20,Marianne Dubois
+61,michele tabarot,55,1962,F,LR,collab,4,0,13,22,9,3,15,0,0,0,aff_etranger,85,Michèle Tabarot
+62,jean luc melenchon,66,1951,M,LFI,collab,6,0,13,0,15,0,0,21,8,3,aff_etranger,601,Jean-Luc Mélenchon
+63,audrey dufeu schubert,37,1980,F,LREM,cadinterpub,0,0,0,0,0,0,0,0,0,0,aff_soc,522,Audrey Dufeu Schubert
+64,florent boudie,44,1973,M,LREM,collab,9,0,3,7,0,2,5,0,0,0,lois,233,Florent Boudié
+65,valerie beauvais,54,1963,F,LR,collab,25,0,3,0,0,2,0,0,0,0,dvp_durable,14,Valérie Beauvais
+66,brigitte bourguignon,58,1959,F,LREM,cadinterpub,1,0,1,0,0,0,5,0,0,0,aff_soc,334,Brigitte Bourguignon
+67,jean baptiste djebbari,35,1982,M,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,dvp_durable,539,Jean-Baptiste Djebbari
+68,denis masseglia,36,1981,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_etranger,377,Denis Masséglia
+69,jean michel fauvergue,60,1957,M,LREM,cadsuppub,0,0,0,0,0,0,0,0,0,0,lois,213,Jean-Michel Fauvergue
+70,richard ramos,49,1968,M,MODEM,cadsupprive,0,0,9,0,0,0,0,0,0,0,aff_eco,264,Richard Ramos
+71,sylvia pinel,40,1977,F,NI,collab,6,0,0,0,0,7,7,0,0,5,finances,192,Sylvia Pinel
+72,raphael schellenberger,27,1990,M,LR,collab,0,0,0,3,2,0,0,4,0,0,lois,72,Raphaël Schellenberger
+73,fabien matras,33,1984,M,LREM,NA,0,0,0,3,0,0,0,0,0,0,lois,386,Fabien Matras
+74,sacha houlie,29,1988,M,LREM,proflib,0,0,0,0,0,0,0,0,0,0,lois,537,Sacha Houlié
+75,carole grandjean,34,1983,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,378,Carole Grandjean
+76,boris vallaud,42,1975,M,NG,HFP,0,5,0,0,0,0,0,0,0,0,aff_soc,504,Boris Vallaud
+77,yves jego,56,1961,M,LC,collab,11,2,6,22,2,2,15,0,0,2,aff_etranger,132,Yves Jégo
+78,jeanine dubie,59,1958,F,NI,cadsuppub,0,0,0,0,8,0,5,0,0,0,aff_soc,191,Jeanine Dubié
+79,didier paris,63,1954,M,LREM,cadsupprive,3,3,0,0,0,0,0,0,0,0,lois,403,Didier Paris
+80,laetitia romeiro dias,36,1981,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,642,Laëtitia Romeiro Dias
+81,franck riester,43,1974,M,LC,artisan commercant chef entrep,0,1,14,9,0,0,10,0,0,0,cult_educ,124,Franck Riester
+82,sandrine le feur,26,1991,F,LREM,agri,0,0,0,0,0,0,0,0,0,0,dvp_durable,286,Sandrine Le Feur
+83,martine leguille balloy,60,1957,F,LREM,proflib,0,0,0,0,0,0,0,0,0,0,aff_etranger,360,Martine Leguille-Balloy
+84,alain david,68,1949,M,NG,cadsupprive,0,0,19,22,19,0,0,0,0,0,aff_etranger,518,Alain David
+85,annie chapelier,50,1967,F,LREM,cadinterpub,0,0,0,0,0,0,0,0,0,0,aff_etranger,425,Annie Chapelier
+86,marie pierre rixain,40,1977,F,LREM,proflib,2,0,0,0,0,0,0,0,0,0,cult_educ,475,Marie-Pierre Rixain
+87,constance le grip,57,1960,F,LR,collab,18,4,8,0,0,0,2,0,7,0,cult_educ,102,Constance Le Grip
+88,emmanuelle menard,49,1968,F,NI,infocom,0,0,0,0,0,0,0,0,0,0,aff_eco,68,Emmanuelle Ménard
+89,laurent furst,52,1965,M,LR,cadsuppub,0,0,0,22,12,0,5,0,0,0,defense,80,Laurent Furst
+90,marion lenne,43,1974,F,LREM,cadsupprive,0,0,3,0,0,0,0,0,0,0,aff_etranger,314,Marion Lenne
+91,sira sylla,37,1980,F,LREM,proflib,0,0,0,0,0,0,0,0,0,0,aff_etranger,291,Sira Sylla
+92,nathalie sarles,55,1962,F,LREM,cadinterprive,0,0,7,0,0,0,0,0,0,0,dvp_durable,290,Nathalie Sarles
+93,frederique meunier,57,1960,F,LR,proflib,0,0,0,3,0,7,0,0,0,0,cult_educ,5,Frédérique Meunier
+94,andre chassaigne,67,1950,M,GDR,profsecondaire,0,0,7,28,26,10,15,0,0,0,defense,587,André Chassaigne
+95,regis juanico,45,1972,M,NG,cadsuppub,0,9,0,0,13,0,10,0,0,0,cult_educ,508,Régis Juanico
+96,sebastien jumel,46,1971,M,GDR,collab,11,0,9,9,14,2,0,0,0,0,aff_eco,583,Sébastien Jumel
+97,catherine osson,43,1974,F,LREM,instit,0,0,9,0,2,0,0,0,0,0,finances,570,Catherine Osson
+98,yolaine de courson,63,1954,F,LREM,artisan commercant chef entrep,0,0,0,3,0,0,0,0,0,0,dvp_durable,238,Yolaine de Courson
+99,gregory besson moreau,35,1982,M,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_eco,482,Grégory Besson-Moreau
+100,mounir mahjoubi,33,1984,M,LREM,artisan commercant chef entrep,1,0,0,0,0,0,0,0,0,0,gouv,,
+101,eric ciotti,52,1965,M,LR,collab,20,4,8,0,9,0,10,1,0,0,lois,91,Éric Ciotti
+102,coralie dubost,34,1983,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,lois,347,Coralie Dubost
+103,stephane trompille,35,1982,M,LREM,cadinterprive,0,0,0,0,0,0,0,0,0,0,defense,544,Stéphane Trompille
+104,christine hennion,62,1955,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,239,Christine Hennion
+105,damien pichereau,29,1988,M,LREM,cadinterprive,0,0,0,0,0,0,0,0,0,0,dvp_durable,303,Damien Pichereau
+106,jean noel barrot,34,1983,M,MODEM,profscientif,0,0,0,0,2,0,0,0,0,0,finances,167,Jean-Noël Barrot
+107,olivier serva,43,1974,M,LREM,proflib,0,0,3,0,0,2,0,0,0,0,finances,311,Olivier Serva
+108,isabelle florennes,50,1967,F,MODEM,collab,0,0,9,0,0,0,0,13,0,0,lois,177,Isabelle Florennes
+109,ian boucard,29,1988,M,LR,cadsupprive,4,0,3,0,0,0,0,0,0,0,defense,,
+110,eric straumann,53,1964,M,LR,profsecondaire,0,0,0,14,13,0,10,0,0,0,aff_eco,76,Éric Straumann
+111,amal amelia lakrafi,39,1978,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_etranger,555,Amal-Amélia Lakrafi
+112,francois cornut gentille,59,1958,M,LR,cadsupprive,0,7,7,22,0,0,24,0,0,0,finances,99,François Cornut-Gentille
+113,jean paul mattei,63,1954,M,MODEM,proflib,0,0,28,16,0,0,0,0,0,0,finances,255,Jean-Paul Mattei
+114,christophe naegelen,34,1983,M,LC,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_etranger,155,Christophe Naegelen
+115,michele crouzet,50,1967,F,LREM,artisan commercant chef entrep,0,0,0,0,2,0,0,0,0,0,aff_eco,367,Michèle Crouzet
+116,philippe vigier,59,1958,M,LC,cadsupprive,0,0,4,16,0,18,10,0,0,0,finances,114,Philippe Vigier
+117,maud petit,46,1971,F,MODEM,employe,0,0,3,0,0,0,0,0,0,0,cult_educ,262,Maud Petit
+118,pierre henri dumont,30,1987,M,LR,collab,3,0,0,3,2,0,0,0,0,0,aff_etranger,50,Pierre-Henri Dumont
+119,mickael nogal,27,1990,M,LREM,cadsupprive,2,0,0,0,0,0,0,0,0,0,aff_eco,548,Mickaël Nogal
+120,jean jacques gaultier,54,1963,M,LR,proflib,0,0,0,3,9,0,11,0,0,0,cult_educ,127,Jean-Jacques Gaultier
+121,florian bachelier,38,1979,M,LREM,proflib,0,0,0,0,0,0,0,0,0,0,defense,419,Florian Bachelier
+122,christophe bouillon,48,1969,M,NG,collab,2,0,7,14,2,0,10,0,0,0,dvp_durable,520,Christophe Bouillon
+123,bruno millienne,58,1959,M,MODEM,cadsupprive,0,0,3,0,0,2,0,0,0,0,dvp_durable,178,Bruno Millienne
+124,philippe michel kleisbauer,48,1969,M,MODEM,collab,13,0,7,0,0,0,0,0,0,0,defense,259,Philippe Michel-Kleisbauer
+125,julien dive,32,1985,M,LR,cadsupprive,0,0,9,3,0,0,1,0,0,0,aff_eco,53,Julien Dive
+126,philippe folliot,54,1963,M,LREM,cadsupprive,0,2,7,15,17,5,15,0,0,0,defense,469,Philippe Folliot
+127,christophe lejeune,48,1969,M,LREM,cadsupprive,0,0,8,9,8,3,0,0,0,0,defense,206,Christophe Lejeune
+128,herve saulignac,47,1970,M,NG,collab,8,0,16,0,0,12,0,0,0,0,dvp_durable,576,Hervé Saulignac
+129,nicolas forissier,56,1961,M,LR,artisan commercant chef entrep,3,0,9,22,0,2,18,0,0,2,finances,19,Nicolas Forissier
+130,helene zannier,45,1972,F,LREM,cadsuppub,0,0,3,0,0,0,0,0,0,0,lois,296,Hélène Zannier
+131,graziella melchior,57,1960,F,LREM,profsecondaire,0,0,0,0,0,0,0,0,0,0,aff_eco,231,Graziella Melchior
+133,alexandra valetta ardisson,41,1976,F,LREM,collab,14,0,3,0,0,0,0,0,0,0,defense,451,Alexandra Valetta Ardisson
+134,bernard deflesselles,64,1953,M,LR,cadsupprive,0,0,7,0,0,25,18,0,0,0,aff_etranger,88,Bernard Deflesselles
+135,said ahamada,45,1972,M,LREM,cadsuppub,0,0,3,0,0,0,0,0,0,0,finances,471,Saïd Ahamada
+136,fadila khattabi,55,1962,F,LREM,profsecondaire,0,0,0,0,0,12,0,0,0,0,aff_soc,294,Fadila Khattabi
+137,sarah el hairy,28,1989,F,MODEM,cadsupprive,1,1,0,0,0,0,0,0,0,0,finances,172,Sarah El Haïry
+138,dominique potier,53,1964,M,NG,agri,0,0,0,14,0,0,5,0,0,0,aff_eco,514,Dominique Potier
+139,brigitte kuster,58,1959,F,LR,collab,9,11,16,9,0,11,0,0,0,0,cult_educ,138,Brigitte Kuster
+140,isabelle valentin,55,1962,F,LR,employe,0,0,0,0,0,7,0,0,0,0,aff_soc,24,Isabelle Valentin
+141,michel lauzzana,60,1957,M,LREM,proflib,0,0,16,16,0,0,0,0,0,0,finances,400,Michel Lauzzana
+142,philippe chalumeau,54,1963,M,LREM,proflib,0,0,7,0,0,0,0,0,0,0,defense,444,Philippe Chalumeau
+143,stanislas guerini,35,1982,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,finances,293,Stanislas Guerini
+144,benedicte peyrol,26,1991,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,finances,201,Bénédicte Peyrol
+145,joel giraud,58,1959,M,LREM,HFP,0,1,0,1,0,11,15,0,0,0,finances,410,Joël Giraud
+146,jean carles grelier,51,1966,M,LR,proflib,0,2,0,9,2,9,0,0,0,0,aff_soc,71,Jean-Carles Grelier
+147,jean rene cazeneuve,59,1958,M,LREM,cadsupprive,0,0,3,0,0,0,0,0,0,0,finances,274,Jean-René Cazeneuve
+148,muriel ressiguier,40,1977,F,LFI,cadinterpub,0,0,0,0,0,2,0,0,0,0,finances,620,Muriel Ressiguier
+149,jean lassalle,62,1955,M,NI,cadinterprive,0,0,0,40,34,1,15,0,0,0,finances,225,Jean Lassalle
+150,sereine mauborgne,45,1972,F,LREM,proflib,0,0,3,0,0,0,0,0,0,0,defense,438,Sereine Mauborgne
+151,belkhir belhaddad,48,1969,M,LREM,artisan commercant chef entrep,0,0,9,0,0,0,0,0,0,0,aff_soc,574,Belkhir Belhaddad
+152,lenaick adam,25,1992,M,LREM,cadsupprive,0,0,0,0,2,0,0,0,0,0,cult_educ,,
+153,alain perea,46,1971,M,LREM,cadsuppub,0,0,9,6,0,0,0,0,0,0,dvp_durable,429,Alain Perea
+154,stephanie kerbarh,42,1975,F,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,dvp_durable,472,Stéphanie Kerbarh
+155,gerard cherpion,69,1948,M,LR,proflib,0,0,7,0,0,25,20,0,0,0,aff_soc,116,Gérard Cherpion
+156,guy teissier,72,1945,M,LR,cadinterprive,0,1,3,27,20,0,25,0,0,0,aff_etranger,84,Guy Teissier
+157,jacques marilossian,59,1958,M,LREM,cadsupprive,0,0,5,0,0,0,0,0,0,0,defense,483,Jacques Marilossian
+158,jacqueline maquet,68,1949,F,LREM,cadsuppub,0,0,19,0,0,12,10,0,0,0,aff_etranger,442,Jacqueline Maquet
+159,jean jacques ferrara,50,1967,M,LR,proflib,0,0,5,0,0,0,0,0,0,0,defense,18,Jean-Jacques Ferrara
+160,jean francois portarrieu,52,1965,M,LREM,infocom,9,0,0,0,0,0,0,0,0,0,aff_etranger,645,Jean-François Portarrieu
+161,robin reda,26,1991,M,LR,cadsuppub,0,0,0,3,0,2,0,0,0,0,lois,47,Robin Reda
+162,laurence vanceunebrock mialon,47,1970,F,LREM,cadinterpub,0,0,0,0,0,0,0,0,0,0,dvp_durable,292,Laurence Vanceunebrock-Mialon
+163,marie lebec,27,1990,F,LREM,collab,3,0,0,0,0,0,0,0,0,0,aff_eco,338,Marie Lebec
+164,valerie petit,41,1976,F,LREM,profscientif,0,0,0,0,0,0,0,0,0,0,aff_soc,214,Valérie Petit
+165,jose evrard,72,1945,M,NI,collab,16,0,9,0,0,0,0,0,0,0,aff_eco,236,José Evrard
+166,caroline fiat,40,1977,F,LFI,employe,0,0,0,0,0,0,0,0,0,0,aff_soc,602,Caroline Fiat
+167,marc delatte,56,1961,M,LREM,proflib,0,0,3,0,0,0,0,0,0,0,aff_soc,565,Marc Delatte
+168,sebastien leclerc,47,1970,M,LR,cadinterprive,0,0,7,9,13,0,0,0,0,0,aff_eco,1,Sébastien Leclerc
+169,olivier damaisin,51,1966,M,LREM,cadinterprive,0,0,16,0,0,0,0,0,0,0,finances,523,Olivier Damaisin
+170,pierre person,28,1989,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,finances,558,Pierre Person
+171,jean louis bourlanges,71,1946,M,MODEM,HFP,0,0,7,0,0,13,0,0,19,0,finances,165,Jean-Louis Bourlanges
+172,jean pierre door,75,1942,M,LR,proflib,0,0,19,16,0,5,15,0,0,0,aff_soc,,
+173,thierry benoit,51,1966,M,LC,cadinterprive,0,0,26,0,13,0,10,0,0,0,aff_eco,113,Thierry Benoit
+174,daniel fasquelle,54,1963,M,LR,profscientif,3,2,8,9,0,0,10,0,0,0,aff_eco,62,Daniel Fasquelle
+175,annie vidal,61,1956,F,LREM,cadinterpub,0,0,3,0,0,0,0,0,0,0,aff_soc,433,Annie Vidal
+176,fiona lazaar,32,1985,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,418,Fiona Lazaar
+177,aude bono vandorme,55,1962,F,LREM,profsecondaire,0,0,9,0,0,0,0,0,0,0,defense,287,Aude Bono-Vandorme
+178,brigitte liso,58,1959,F,LREM,cadinterprive,0,0,0,0,0,0,0,0,0,0,cult_educ,424,Brigitte Liso
+179,sebastien chenu,44,1973,M,NI,collab,9,8,14,0,0,2,0,0,0,0,aff_soc,57,Sébastien Chenu
+180,agnes thill,53,1964,F,LREM,instit,0,0,0,0,0,0,0,0,0,0,cult_educ,221,Agnès Thill
+181,bertrand bouyx,47,1970,M,LREM,proflib,0,0,0,0,0,0,0,0,0,0,aff_etranger,210,Bertrand Bouyx
+182,jean terlier,40,1977,M,LREM,proflib,0,0,3,0,0,0,0,0,0,0,lois,457,Jean Terlier
+183,ramlati ali,56,1961,F,LREM,proflib,0,0,0,7,0,0,0,0,0,0,cult_educ,,
+184,danielle brulebois,70,1947,F,LREM,instit,0,0,9,0,9,0,0,0,0,0,dvp_durable,549,Danielle Brulebois
+185,raphael gauvain,44,1973,M,LREM,proflib,0,0,0,0,0,0,0,0,0,0,lois,241,Raphaël Gauvain
+186,pacome rupin,32,1985,M,LREM,proflib,0,0,3,0,0,0,0,0,0,0,lois,423,Pacôme Rupin
+187,jacqueline dubois,60,1957,F,LREM,instit,0,0,0,0,0,0,0,0,0,0,cult_educ,484,Jacqueline Dubois
+188,sebastien cazenove,41,1976,M,LREM,cadinterpub,0,0,0,0,0,0,1,0,0,0,aff_eco,543,Sébastien Cazenove
+189,ludovic mendes,30,1987,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_etranger,232,Ludovic Mendes
+190,nicolas turquois,45,1972,M,MODEM,agri,0,0,6,3,0,0,0,0,0,0,aff_eco,265,Nicolas Turquois
+191,stephane teste,49,1968,M,LREM,instit,0,0,3,0,0,0,0,0,0,0,cult_educ,380,Stéphane Testé
+192,eric woerth,61,1956,M,LR,cadsupprive,0,3,9,22,0,13,13,0,0,6,finances,89,Éric Woerth
+193,joachim son forget,34,1983,M,LREM,proflib,0,0,0,0,0,0,0,0,0,0,aff_etranger,564,Joachim Son-Forget
+194,laurianne rossi,33,1984,F,LREM,cadsuppub,0,0,0,0,0,0,0,3,0,0,dvp_durable,441,Laurianne Rossi
+195,aurelien tache,33,1984,M,LREM,collab,4,3,0,0,0,0,0,0,0,0,aff_soc,412,Aurélien Taché
+196,blandine brocard,36,1981,F,LREM,cadsupprive,0,0,3,0,0,0,0,0,0,0,aff_soc,323,Blandine Brocard
+197,francois jolivet,51,1966,M,LREM,collab,0,0,0,22,0,12,0,4,0,0,finances,606,François Jolivet
+198,guy bricout,73,1944,M,LC,cadsuppub,0,0,46,22,21,0,0,0,0,0,dvp_durable,140,Guy Bricout
+199,laurence gayte,52,1965,F,LREM,cadsupprive,0,0,5,0,0,0,0,0,0,0,aff_etranger,530,Laurence Gayte
+200,jean louis masson,63,1954,M,LR,cadsuppub,0,0,0,16,13,0,0,0,0,0,lois,152,Jean-Louis Masson
+201,michel larive,51,1966,M,LFI,cadinterprive,0,0,7,0,0,0,0,0,0,0,cult_educ,630,Michel Larive
+202,jean pierre vigier,48,1969,M,LR,cadsuppub,0,0,0,9,0,2,5,0,0,0,finances,54,Jean-Pierre Vigier
+203,pierre cordier,45,1972,M,LR,collab,0,0,0,16,13,0,0,0,0,0,aff_etranger,8,Pierre Cordier
+204,david lorion,53,1964,M,LR,profscientif,0,0,16,0,0,7,0,0,0,0,dvp_durable,110,David Lorion
+205,elodie jacquier laforge,39,1978,F,MODEM,collab,13,0,0,0,0,0,0,0,0,0,lois,185,Élodie Jacquier-Laforge
+206,jean bernard sempastous,53,1964,M,LREM,profsecondaire,0,0,19,4,0,0,0,0,0,0,aff_eco,313,Jean-Bernard Sempastous
+207,jacques cattin,59,1958,M,LR,agri,0,0,0,22,0,7,0,0,0,0,aff_eco,73,Jacques Cattin
+208,romain grau,43,1974,M,LREM,artisan commercant chef entrep,5,0,3,0,2,0,0,0,0,0,finances,531,Romain Grau
+209,marie noelle battistel,61,1956,F,NG,cadsupprive,0,0,4,19,0,2,7,0,0,0,aff_eco,513,Marie-Noëlle Battistel
+210,anne blanc,51,1966,F,LREM,cadinterpub,0,0,0,16,2,0,0,0,0,0,aff_eco,317,Anne Blanc
+211,franck marlin,53,1964,M,LR,collab,6,0,0,22,2,5,22,0,0,0,defense,7,Franck Marlin
+212,bastien lachaud,37,1980,M,LFI,profsecondaire,0,0,0,0,0,0,0,0,0,0,defense,626,Bastien Lachaud
+213,frederic petit,56,1961,M,MODEM,cadsupprive,0,0,7,0,0,0,0,0,0,0,aff_etranger,260,Frédéric Petit
+214,thomas gassilloud,36,1981,M,LREM,artisan commercant chef entrep,0,0,0,3,0,0,0,0,0,0,defense,273,Thomas Gassilloud
+215,hubert wulfranc,61,1956,M,GDR,profsecondaire,15,0,0,15,13,0,0,0,0,0,dvp_durable,585,Hubert Wulfranc
+216,didier le gac,52,1965,M,LREM,cadsupprive,0,0,0,16,9,0,0,0,0,0,defense,333,Didier Le Gac
+217,nathalie bassire,49,1968,F,LR,profsecondaire,0,0,0,0,8,2,0,0,0,0,dvp_durable,109,Nathalie Bassire
+218,valerie bazin malgras,48,1969,F,LR,cadinterprive,0,0,3,0,0,0,0,0,0,0,cult_educ,119,Valérie Bazin-Malgras
+219,marie ange magne,30,1987,F,LREM,collab,2,0,0,0,0,0,0,0,0,0,finances,327,Marie-Ange Magne
+220,christophe arend,42,1975,M,LREM,proflib,0,0,3,0,0,0,0,0,0,0,dvp_durable,439,Christophe Arend
+221,veronique hammerer,49,1968,F,LREM,cadsuppub,0,0,3,0,0,0,0,0,0,0,aff_eco,326,Véronique Hammerer
+222,alain ramadier,59,1958,M,LR,cadsupprive,0,0,22,0,0,13,0,0,0,0,aff_soc,48,Alain Ramadier
+223,daniele herin,70,1947,F,LREM,profscientif,0,0,3,0,0,0,0,0,0,0,cult_educ,203,Danièle Hérin
+224,sandrine josso,42,1975,F,LREM,cadinterprive,0,0,3,0,0,0,0,0,0,0,dvp_durable,324,Sandrine Josso
+225,philippe huppe,49,1968,M,LREM,infocom,0,0,9,9,0,0,0,0,0,0,aff_eco,395,Philippe Huppé
+226,arnaud viala,43,1974,M,LR,profsecondaire,0,0,0,9,12,0,2,0,0,0,lois,35,Arnaud Viala
+227,ludovic pajot,24,1993,M,NI,NA,0,0,3,0,0,2,0,0,0,0,dvp_durable,67,Ludovic Pajot
+228,olivier gaillard,50,1967,M,LREM,cadsuppub,0,0,16,0,9,0,2,0,0,0,finances,243,Olivier Gaillard
+229,marie guevenoux,41,1976,F,LREM,collab,11,6,0,0,0,0,0,0,0,0,lois,307,Marie Guévenoux
+230,guillaume gouffier cha,31,1986,M,LREM,cadsupprive,5,1,0,0,0,0,0,0,0,0,defense,420,Guillaume Gouffier-Cha
+231,michel castellani,72,1945,M,NI,profscientif,0,0,16,0,0,12,0,0,0,0,finances,649,Michel Castellani
+232,michel fanget,67,1950,M,MODEM,proflib,0,1,28,0,8,2,5,0,0,0,aff_etranger,175,Michel Fanget
+234,damien adam,28,1989,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,319,Damien Adam
+235,jean christophe lagarde,50,1967,M,LC,collab,8,0,13,16,3,5,15,0,0,0,defense,135,Jean-Christophe Lagarde
+236,philippe chassaing,45,1972,M,LREM,profsecondaire,0,0,0,0,0,0,0,0,0,0,finances,405,Philippe Chassaing
+237,christophe blanchet,44,1973,M,LREM,artisan commercant chef entrep,0,0,3,0,0,0,0,0,0,0,defense,271,Christophe Blanchet
+238,sylvie charriere,56,1961,F,LREM,profsecondaire,0,0,0,0,0,0,0,0,0,0,cult_educ,561,Sylvie Charrière
+239,michel herbillon,66,1951,M,LR,cadsupprive,0,0,0,25,10,0,20,0,0,0,aff_etranger,11,Michel Herbillon
+240,bernard brochand,79,1938,M,LR,cadsupprive,0,0,0,14,0,0,16,0,0,0,cult_educ,83,Bernard Brochand
+241,philippe dunoyer,49,1968,M,LC,collab,6,0,3,0,6,1,0,0,0,0,lois,120,Philippe Dunoyer
+242,sylvain maillard,43,1974,M,LREM,artisan commercant chef entrep,0,0,3,0,0,0,0,0,0,0,aff_soc,330,Sylvain Maillard
+243,caroline janvier,35,1982,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,277,Caroline Janvier
+244,marie christine verdier jouclas,52,1965,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,finances,525,Marie-Christine Verdier-Jouclas
+245,catherine kamowski,59,1958,F,LREM,profsecondaire,0,0,2,15,0,0,0,0,0,0,lois,335,Catherine Kamowski
+246,sophie panonacle,49,1968,F,LREM,cadinterprive,0,0,0,0,0,0,0,0,0,0,dvp_durable,281,Sophie Panonacle
+248,buon tan,50,1967,M,LREM,artisan commercant chef entrep,2,0,7,0,0,0,0,0,0,0,aff_etranger,465,Buon Tan
+249,eric girardin,55,1962,M,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_etranger,219,Éric Girardin
+250,francois pupponi,55,1962,M,NG,cadsuppub,0,6,3,20,11,0,10,0,0,0,finances,510,François Pupponi
+251,denis sommer,60,1957,M,LREM,profsecondaire,0,0,0,16,0,13,0,0,0,0,aff_eco,623,Denis Sommer
+252,marc le fur,61,1956,M,LR,HFP,0,3,0,0,15,7,20,0,0,0,finances,96,Marc Le Fur
+253,marine le pen,49,1968,F,NI,collab,11,0,4,0,0,19,0,0,13,0,aff_etranger,60,Marine Le Pen
+254,nicole dubre chirat,66,1951,F,LREM,cadsuppub,0,0,0,0,0,0,0,0,0,0,lois,302,Nicole Dubré-Chirat
+255,francois ruffin,42,1975,M,LFI,infocom,0,0,0,0,0,0,0,0,0,0,aff_eco,627,François Ruffin
+256,yannick favennec becot,59,1958,M,LC,collab,14,4,3,0,0,13,15,5,0,0,defense,112,Yannick Favennec Becot
+257,patrick mignola,46,1971,M,MODEM,collab,0,13,0,16,13,2,0,0,0,0,finances,248,Patrick Mignola
+258,corinne vignon,54,1963,F,LREM,cadsupprive,0,0,0,3,0,0,0,0,0,0,aff_soc,375,Corinne Vignon
+259,lise magnier,33,1984,F,LC,collab,9,0,3,0,2,0,0,0,0,0,finances,156,Lise Magnier
+260,ugo bernalicis,28,1989,M,LFI,cadsuppub,0,0,0,0,0,0,0,0,0,0,lois,629,Ugo Bernalicis
+261,francois cormier bouligeon,45,1972,M,LREM,collab,17,3,0,0,0,0,0,0,0,0,cult_educ,300,François Cormier-Bouligeon
+262,jean louis bricout,60,1957,M,NG,cadsupprive,7,0,8,9,0,3,5,0,0,0,finances,498,Jean-Louis Bricout
+263,michele peyron,56,1961,F,LREM,cadsupprive,0,0,7,0,0,0,0,0,0,0,aff_soc,401,Michèle Peyron
+264,david habib,56,1961,M,NG,collab,24,0,10,20,11,0,15,0,0,0,lois,506,David Habib
+265,genevieve levy,69,1948,F,LR,cadsupprive,0,2,16,0,0,0,15,0,0,0,aff_soc,87,Geneviève Levy
+266,jean marie sermier,56,1961,M,LR,agri,0,0,7,28,24,0,15,0,0,0,dvp_durable,86,Jean-Marie Sermier
+267,veronique riotton,48,1969,F,LREM,cadinterprive,0,0,0,0,0,0,0,0,0,0,dvp_durable,431,Véronique Riotton
+268,philippe berta,57,1960,M,MODEM,profscientif,0,0,0,0,0,0,0,0,0,0,cult_educ,164,Philippe Berta
+269,patricia miralles,50,1967,F,LREM,employe,0,0,4,0,2,0,0,0,0,0,defense,492,Patricia Mirallès
+270,sonia krimi,35,1982,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_etranger,633,Sonia Krimi
+271,amelie de montchalin,32,1985,F,LREM,collab,2,0,0,0,0,0,0,0,0,0,finances,427,Amélie de Montchalin
+272,mustapha laabid,48,1969,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,557,Mustapha Laabid
+273,marc fesneau,46,1971,M,MODEM,collab,0,0,0,9,0,7,0,8,0,0,defense,180,Marc Fesneau
+274,eric bothorel,51,1966,M,LREM,cadsupprive,0,0,0,0,5,0,0,0,0,0,aff_eco,554,Éric Bothorel
+275,roland lescure,51,1966,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,634,Roland Lescure
+276,charlotte lecocq,40,1977,F,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_soc,393,Charlotte Lecocq
+277,agnes firmin le bodo,49,1968,F,LC,proflib,0,0,0,0,6,0,0,0,0,0,aff_soc,158,Agnès Firmin Le Bodo
+278,fabienne colboc,46,1971,F,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,cult_educ,538,Fabienne Colboc
+279,christophe jerretie,38,1979,M,LREM,proflib,0,0,3,3,0,0,0,0,0,0,finances,320,Christophe Jerretie
+280,didier martin,61,1956,M,LREM,proflib,0,0,22,0,0,10,0,0,0,0,aff_eco,366,Didier Martin
+281,ericka bareigts,50,1967,F,NG,cadsuppub,0,0,5,0,0,3,5,0,0,2,aff_soc,503,Ericka Bareigts
+282,jerome lambert,60,1957,M,NG,collab,9,0,7,0,0,0,28,0,0,0,aff_etranger,578,Jérôme Lambert
+283,aude luquet,50,1967,F,MODEM,collab,15,0,0,0,0,3,0,0,0,0,dvp_durable,254,Aude Luquet
+284,jean luc fugit,48,1969,M,LREM,profscientif,0,0,0,0,0,0,0,0,0,0,dvp_durable,374,Jean-Luc Fugit
+285,adrien taquet,40,1977,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,209,Adrien Taquet
+286,herve berville,27,1990,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_etranger,212,Hervé Berville
+287,yves daniel,63,1954,M,LREM,agri,0,0,13,18,15,0,5,0,0,0,aff_eco,295,Yves Daniel
+288,fabien gouttefarde,39,1978,M,LREM,cadsuppub,0,0,0,0,0,0,0,0,0,0,defense,415,Fabien Gouttefarde
+289,pierre cabare,60,1957,M,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_etranger,637,Pierre Cabaré
+290,maurice leroy,58,1959,M,LC,collab,11,3,0,13,23,0,19,7,0,3,aff_etranger,111,Maurice Leroy
+291,virginie duby muller,38,1979,F,LR,collab,11,0,0,0,1,4,5,0,0,0,cult_educ,95,Virginie Duby-Muller
+292,joaquim pueyo,67,1950,M,NG,cadsuppub,0,0,0,26,15,0,5,0,0,0,defense,516,Joaquim Pueyo
+293,patrick vignal,59,1958,M,LREM,artisan commercant chef entrep,0,0,16,0,5,0,5,0,0,0,cult_educ,389,Patrick Vignal
+294,jacques krabal,69,1948,M,LREM,profsecondaire,0,0,0,34,21,0,5,0,0,0,dvp_durable,542,Jacques Krabal
+295,berengere poletti,58,1959,F,LR,cadinterpub,0,2,8,0,2,18,15,0,0,0,aff_etranger,22,Bérengère Poletti
+296,yael braun pivet,47,1970,F,LREM,proflib,0,0,0,0,0,0,0,0,0,0,lois,481,Yaël Braun-Pivet
+297,jimmy pahun,55,1962,M,MODEM,infocom,0,0,8,0,0,0,0,0,0,0,dvp_durable,187,Jimmy Pahun
+298,olivier becht,41,1976,M,LC,HFP,0,0,0,9,2,0,0,0,0,0,defense,154,Olivier Becht
+299,maina sage,42,1975,F,LC,artisan commercant chef entrep,0,0,0,0,0,3,3,0,0,0,lois,130,Maina Sage
+300,claire o petit,68,1949,F,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,cult_educ,304,Claire O'Petit
+301,jean charles colas roy,39,1978,M,LREM,artisan commercant chef entrep,0,0,3,0,0,0,0,0,0,0,dvp_durable,199,Jean-Charles Colas-Roy
+302,sabine thillaye,58,1959,F,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,defense,222,Sabine Thillaye
+303,stephane demilly,54,1963,M,LC,cadsupprive,0,0,0,28,0,10,15,0,0,0,defense,125,Stéphane Demilly
+304,laurence trastour isnart,45,1972,F,LR,cadinterpub,0,0,19,0,0,2,0,0,0,0,defense,151,Laurence Trastour-Isnart
+305,claude de ganay,64,1953,M,LR,cadsuppub,0,0,7,20,25,0,5,0,0,0,defense,51,Claude de Ganay
+306,vincent thiebaut,45,1972,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,dvp_durable,432,Vincent Thiébaut
+307,jean pierre pont,67,1950,M,LREM,proflib,0,0,0,28,0,7,5,0,0,0,lois,234,Jean-Pierre Pont
+308,olivier veran,37,1980,M,LREM,proflib,0,0,0,0,0,2,4,0,0,0,aff_soc,540,Olivier Véran
+309,anissa khedher,37,1980,F,LREM,cadinterpub,0,0,7,0,0,0,0,0,0,0,defense,573,Anissa Khedher
+310,gabriel attal,28,1989,M,LREM,collab,4,5,3,0,0,0,0,0,0,0,cult_educ,453,Gabriel Attal
+311,jean yves bony,62,1955,M,LR,agri,0,0,0,16,16,0,4,0,0,0,dvp_durable,2,Jean-Yves Bony
+312,frederic reiss,68,1949,M,LR,profsecondaire,0,0,0,20,5,0,15,0,0,0,cult_educ,77,Frédéric Reiss
+313,raphael gerard,49,1968,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,cult_educ,392,Raphaël Gérard
+314,bruno bilde,41,1976,M,NI,collab,6,0,3,0,0,13,0,0,0,0,aff_soc,66,Bruno Bilde
+315,sabine rubin,57,1960,F,LFI,cadsuppub,0,0,0,0,0,0,0,0,0,0,cult_educ,628,Sabine Rubin
+316,eric coquerel,59,1958,M,LFI,artisan commercant chef entrep,0,0,0,0,0,7,0,0,0,0,finances,610,Éric Coquerel
+317,jean michel jacques,49,1968,M,LREM,cadinterpub,0,0,3,3,0,0,0,0,0,0,defense,404,Jean-Michel Jacques
+318,guillaume chiche,31,1986,M,LREM,cadsupprive,3,0,0,0,0,0,0,0,0,0,aff_soc,616,Guillaume Chiche
+319,thomas rudigoz,46,1971,M,LREM,collab,6,0,7,3,8,0,0,0,0,0,lois,546,Thomas Rudigoz
+320,monique limon,64,1953,F,LREM,cadinterpub,0,0,0,9,0,0,0,0,0,0,aff_eco,382,Monique Limon
+321,guillaume garot,51,1966,M,NG,collab,9,6,7,5,7,0,9,0,0,3,dvp_durable,495,Guillaume Garot
+322,jean charles larsonneur,33,1984,M,LREM,cadsuppub,0,0,0,0,0,0,0,0,0,0,defense,568,Jean-Charles Larsonneur
+323,erwan balanant,46,1971,M,MODEM,artisan commercant chef entrep,0,0,5,0,0,0,0,0,0,0,lois,162,Erwan Balanant
+324,emmanuel maquet,49,1968,M,LR,cadinterprive,0,0,0,16,13,0,0,0,0,0,dvp_durable,49,Emmanuel Maquet
+325,stephane peu,55,1962,M,GDR,collab,2,0,22,0,0,0,0,0,0,0,lois,589,Stéphane Peu
+326,brahim hammouche,46,1971,M,MODEM,proflib,0,0,0,0,0,0,0,0,0,0,aff_soc,182,Brahim Hammouche
+327,barbara pompili,42,1975,F,LREM,collab,8,0,0,0,0,0,5,0,0,1,dvp_durable,348,Barbara Pompili
+328,marie france Loroh,63,1964,M,NI,proflib,0,0,7,0,0,0,0,0,0,0,lois,70,lorho
+329,michel zumkeller,51,1966,M,LC,proflib,0,0,16,9,2,0,15,0,0,0,lois,122,Michel Zumkeller
+330,fannette charvier,33,1984,F,LREM,employe,0,0,0,0,0,0,0,0,0,0,aff_eco,528,Fannette Charvier
+331,fabien di filippo,31,1986,M,LR,cadsupprive,0,0,3,0,0,0,0,0,0,0,aff_eco,13,Fabien Di Filippo
+332,julien aubert,39,1978,M,LR,HFP,0,0,3,0,0,2,5,0,0,0,finances,136,Julien Aubert
+333,aina kuric,30,1987,F,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,finances,643,Aina Kuric
+334,pierre yves bournazel,40,1977,M,LC,collab,4,2,9,0,0,7,0,0,0,0,cult_educ,146,Pierre-Yves Bournazel
+335,valerie lacroute,52,1965,F,LR,cadsuppub,0,0,0,9,0,0,5,0,0,0,finances,15,Valérie Lacroute
+336,valerie rabault,44,1973,F,NG,cadsupprive,0,0,0,0,0,0,5,0,0,0,finances,505,Valérie Rabault
+337,anne france brunet,55,1962,F,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,defense,550,Anne-France Brunet
+338,thierry robert,40,1977,M,MODEM,artisan commercant chef entrep,0,0,0,9,6,2,5,0,0,0,dvp_durable,258,Thierry Robert
+339,paul andre colombani,50,1967,M,NI,proflib,0,0,0,0,0,2,0,0,0,0,dvp_durable,648,Paul-André Colombani
+340,gilbert collard,69,1948,M,NI,proflib,0,0,3,0,0,0,5,0,0,0,lois,58,Gilbert Collard
+341,celia de lavergne,38,1979,F,LREM,cadsuppub,3,0,0,0,0,0,0,0,0,0,aff_eco,473,Célia de Lavergne
+342,fabien roussel,48,1969,M,GDR,collab,0,5,3,0,0,0,0,0,0,0,finances,590,Fabien Roussel
+343,benoit simian,34,1983,M,LREM,cadsupprive,0,0,0,3,0,0,0,0,0,0,finances,416,Benoit Simian
+344,gilles le gendre,59,1958,M,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,finances,436,Gilles Le Gendre
+345,christine cloarec,53,1964,F,LREM,cadinterprive,0,0,9,0,0,0,0,0,0,0,aff_soc,301,Christine Cloarec
+346,m jid el guerrab,34,1983,M,LREM,cadsupprive,2,0,0,0,0,0,0,6,0,0,defense,640,M'jid El Guerrab
+347,jean michel clement,63,1954,M,LREM,proflib,0,0,7,20,0,0,10,0,0,0,lois,417,Jean-Michel Clément
+348,mathilde panot,28,1989,F,LFI,cadinterprive,0,0,0,0,0,0,0,0,0,0,dvp_durable,604,Mathilde Panot
+349,bruno bonnell,59,1958,M,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_etranger,272,Bruno Bonnell
+350,christine pires beaune,53,1964,F,NG,collab,9,0,7,0,0,0,5,0,0,0,finances,507,Christine Pires Beaune
+351,francois andre,50,1967,M,LREM,cadsuppub,0,0,12,0,9,0,5,0,0,0,defense,276,François André
+352,alexandre holroyd,30,1987,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,finances,298,Alexandre Holroyd
+353,marjolaine meynier millefert,35,1982,F,LREM,artisan commercant chef entrep,0,0,0,0,0,2,0,0,0,0,dvp_durable,279,Marjolaine Meynier-Millefert
+354,jean claude bouchet,60,1957,M,LR,cadsupprive,0,0,0,9,7,0,10,0,0,0,aff_eco,52,Jean-Claude Bouchet
+355,claude goasguen,72,1945,M,LR,profscientif,0,3,0,9,34,8,23,0,0,1,aff_etranger,93,Claude Goasguen
+356,yannick haury,63,1954,M,LREM,proflib,0,0,11,10,6,0,0,0,0,0,dvp_durable,566,Yannick Haury
+357,gael le bohec,40,1977,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,cult_educ,207,Gaël Le Bohec
+358,frederic barbier,57,1960,M,LREM,cadinterprive,0,0,18,0,6,0,5,0,0,0,aff_etranger,230,Frédéric Barbier
+359,luc carvounas,46,1971,M,NG,cadsuppub,0,0,12,5,4,0,5,6,0,0,defense,517,Luc Carvounas
+360,josy poueyto,63,1954,F,MODEM,cadinterpub,0,0,27,0,19,4,0,0,0,0,defense,263,Josy Poueyto
+361,philippe bolo,50,1967,M,MODEM,cadsupprive,0,0,9,0,0,0,0,0,0,0,aff_eco,166,Philippe Bolo
+362,eric diard,52,1965,M,LR,cadsupprive,0,0,0,16,0,0,11,0,0,0,lois,25,Éric Diard
+363,guillaume larrive,40,1977,M,LR,HFP,0,8,1,0,0,3,5,0,0,0,lois,45,Guillaume Larrivé
+364,patrice perrot,53,1964,M,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,dvp_durable,547,Patrice Perrot
+365,catherine fabre,39,1978,F,LREM,profscientif,0,0,0,0,0,0,0,0,0,0,aff_soc,217,Catherine Fabre
+366,nadia ramassamy,56,1961,F,LR,proflib,0,0,0,0,9,7,0,0,0,0,aff_soc,44,Nadia Ramassamy
+367,pierre dharreville,42,1975,M,GDR,infocom,0,0,1,0,0,0,0,0,0,0,aff_soc,592,Pierre Dharréville
+368,stephanie rist,44,1973,F,LREM,proflib,0,0,0,0,0,0,0,0,0,0,cult_educ,607,Stéphanie Rist
+369,gilles lurton,54,1963,M,LR,collab,25,0,22,0,2,0,5,0,0,0,aff_soc,10,Gilles Lurton
+370,hugues renson,39,1978,M,LREM,collab,1,10,0,0,0,0,0,0,0,0,aff_etranger,196,Hugues Renson
+371,daniel labaronne,62,1955,M,LREM,profscientif,0,0,3,3,0,0,0,0,0,0,finances,342,Daniel Labaronne
+372,lionel causse,46,1971,M,LREM,cadsupprive,0,0,0,0,8,0,0,0,0,0,dvp_durable,362,Lionel Causse
+373,thierry michels,57,1960,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,445,Thierry Michels
+374,florence granjus,55,1962,F,LREM,cadsuppub,0,0,0,0,0,0,0,0,0,0,aff_soc,636,Florence Granjus
+375,aurelien pradie,31,1986,M,LR,cadsupprive,0,0,0,3,8,2,0,0,0,0,lois,38,Aurélien Pradié
+376,jacques maire,55,1962,M,LREM,HFP,0,11,14,0,0,7,0,0,0,0,aff_etranger,297,Jacques Maire
+377,nicolas dupont aignan,56,1961,M,NI,HFP,1,3,0,22,0,0,20,0,0,0,aff_etranger,237,Nicolas Dupont-Aignan
+378,isabelle rauch,49,1968,F,LREM,cadsupprive,0,0,0,0,9,0,0,0,0,0,aff_etranger,197,Isabelle Rauch
+379,benoit potterie,50,1967,M,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_eco,198,Benoit Potterie
+380,paul christophe,46,1971,M,LC,cadsuppub,0,0,0,9,2,0,0,0,0,0,aff_eco,141,Paul Christophe
+381,marie tamarelle verhaeghe,55,1962,F,LREM,proflib,0,0,0,0,2,0,0,0,0,0,aff_soc,224,Marie Tamarelle-Verhaeghe
+382,patrice anato,41,1976,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,352,Patrice Anato
+383,frederique lardet,51,1966,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,defense,480,Frédérique Lardet
+384,jean francois parigi,57,1960,M,LR,cadinterprive,0,0,28,0,9,0,0,0,0,0,finances,32,Jean-François Parigi
+385,sebastien nadot,45,1972,M,LREM,profsecondaire,0,0,0,0,0,0,0,0,0,0,aff_eco,343,Sébastien Nadot
+386,nicolas demoulin,45,1972,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,487,Nicolas Démoulin
+387,julien borowczyk,38,1979,M,LREM,proflib,0,0,0,0,0,0,0,0,0,0,aff_soc,387,Julien Borowczyk
+388,olivia gregoire,39,1978,F,LREM,cadsupprive,2,3,0,0,0,0,0,0,0,0,finances,284,Olivia Gregoire
+389,alexandre freschi,38,1979,M,LREM,cadsupprive,0,0,0,3,0,0,0,0,0,0,cult_educ,474,Alexandre Freschi
+390,naima moutchou,37,1980,F,LREM,proflib,0,0,0,0,0,0,0,0,0,0,lois,329,Naïma Moutchou
+391,berangere couillard,31,1986,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,dvp_durable,322,Bérangère Couillard
+392,cecile muschotti,30,1987,F,LREM,profsecondaire,1,0,3,0,0,0,0,0,0,0,finances,195,Cécile Muschotti
+393,herve pellois,66,1951,M,LREM,cadsupprive,0,0,7,26,12,4,5,0,0,0,finances,376,Hervé Pellois
+394,eric poulliat,43,1974,M,LREM,cadinterpub,7,0,0,0,0,0,0,0,0,0,lois,215,Éric Poulliat
+395,jennifer de temmerman,40,1977,F,LREM,profsecondaire,0,0,0,0,0,0,0,0,0,0,dvp_durable,397,Jennifer De Temmerman
+396,guillaume peltier,41,1976,M,LR,cadsupprive,0,0,0,3,0,2,0,0,0,0,cult_educ,139,Guillaume Peltier
+397,alexis corbiere,49,1968,M,LFI,profsecondaire,0,0,14,0,0,0,0,0,0,0,defense,603,Alexis Corbière
+398,vincent ledoux,51,1966,M,LC,profsecondaire,0,0,22,16,0,2,1,0,0,0,finances,129,Vincent Ledoux
+399,elsa faucillon,36,1981,F,GDR,collab,9,0,3,0,2,0,0,0,0,0,cult_educ,588,Elsa Faucillon
+400,jean baptiste moreau,40,1977,M,LREM,agri,0,0,0,0,0,0,0,0,0,0,aff_eco,337,Jean-Baptiste Moreau
+401,philippe gomes,59,1958,M,LC,cadsuppub,0,2,0,20,0,23,5,0,0,0,aff_etranger,104,Philippe Gomès
+402,didier quentin,71,1946,M,LR,HFP,0,5,13,9,15,6,20,0,0,0,aff_etranger,28,Didier Quentin
+403,emilie guerel,34,1983,F,LREM,profsecondaire,0,0,0,0,0,0,0,0,0,0,defense,479,Émilie Guerel
+404,clementine autain,44,1973,F,LFI,NA,2,0,11,0,0,2,0,2,0,0,aff_etranger,618,Clémentine Autain
+405,bruno nestor azerot,56,1961,M,GDR,artisan commercant chef entrep,0,0,0,7,9,0,5,0,0,0,defense,596,Bruno Nestor Azerot
+406,sophie auconie,54,1963,F,LC,cadsupprive,0,0,9,0,0,0,2,0,6,0,dvp_durable,134,Sophie Auconie
+407,alain bruneel,65,1952,M,GDR,employe,0,0,0,18,5,8,0,0,0,0,aff_eco,586,Alain Bruneel
+408,marine brenier,31,1986,F,LC,NA,0,0,8,0,2,0,1,0,0,0,aff_soc,150,Marine Brenier
+409,vincent rolland,47,1970,M,LR,collab,0,1,0,0,19,0,6,0,0,0,aff_eco,128,Vincent Rolland
+410,serge letchimy,64,1953,M,NG,cadsuppub,0,0,0,10,13,7,10,0,0,0,aff_eco,501,Serge Letchimy
+411,laurent garcia,47,1970,M,MODEM,cadsupprive,0,0,14,9,0,0,0,0,0,0,cult_educ,183,Laurent Garcia
+412,gerard menuel,65,1952,M,LR,agri,0,0,34,0,0,8,12,0,0,0,dvp_durable,118,Gérard Menuel
+413,louis aliot,48,1969,M,NI,collab,16,0,3,0,0,18,0,0,3,0,defense,59,Louis Aliot
+414,sandra marsaud,43,1974,F,LREM,cadsuppub,0,0,3,0,0,0,0,0,0,0,dvp_durable,372,Sandra Marsaud
+416,francis vercamer,59,1958,M,LC,cadsupprive,0,2,10,19,0,1,15,0,0,0,aff_soc,123,Francis Vercamer
+417,michele de vaucouleurs,53,1964,F,MODEM,cadinterpub,0,0,9,0,0,0,0,0,0,0,aff_soc,266,Michèle de Vaucouleurs
+418,thomas mesnier,31,1986,M,LREM,proflib,0,0,0,0,0,0,0,0,0,0,aff_soc,353,Thomas Mesnier
+419,marielle de sarnez,66,1951,F,MODEM,collab,3,7,13,0,0,0,0,0,18,0,aff_etranger,257,Marielle de Sarnez
+420,jean pierre cubertafon,69,1948,M,MODEM,artisan commercant chef entrep,0,0,40,22,0,0,0,0,0,0,defense,169,Jean-Pierre Cubertafon
+421,monique iborra,72,1945,F,LREM,cadinterpub,0,0,23,0,0,15,10,0,0,0,aff_soc,280,Monique Iborra
+422,bernard reynes,64,1953,M,LR,proflib,0,1,7,16,0,0,10,0,0,0,aff_etranger,101,Bernard Reynès
+423,pierre morel a l huissier,59,1958,M,LC,collab,17,3,0,16,18,0,15,0,0,0,lois,105,Pierre Morel-À-L'Huissier
+424,stephane le foll,57,1960,M,NG,collab,18,1,25,0,0,0,1,0,9,5,dvp_durable,580,Stéphane Le Foll
+425,maxime minot,30,1987,M,LR,cadinterpub,0,0,0,3,0,0,0,0,0,0,cult_educ,17,Maxime Minot
+426,jean francois mbaye,38,1979,M,LREM,NA,0,0,0,0,0,0,0,0,0,0,aff_etranger,426,Jean François Mbaye
+427,nadia essayan,60,1957,F,MODEM,cadinterprive,0,0,11,0,0,0,0,0,0,0,cult_educ,174,Nadia Essayan
+428,emilie chalas,40,1977,F,LREM,cadsuppub,0,0,0,0,0,0,0,0,0,0,lois,485,Émilie Chalas
+429,cecile untermaier,66,1951,F,NG,HFP,0,0,0,0,5,0,5,0,0,0,lois,577,Cécile Untermaier
+430,gilles carrez,69,1948,M,LR,HFP,6,0,0,25,9,0,24,0,0,0,finances,92,Gilles Carrez
+431,daniele obono,37,1980,F,LFI,cadinterpub,0,0,0,0,0,0,0,0,0,0,lois,611,Danièle Obono
+432,jean claude leclabart,63,1954,M,LREM,agri,0,0,0,20,0,0,0,0,0,0,dvp_durable,532,Jean-Claude Leclabart
+433,mireille robert,55,1962,F,LREM,instit,0,0,3,0,0,2,0,0,0,0,aff_soc,533,Mireille Robert
+434,andre villiers,63,1954,M,LC,agri,0,0,32,23,25,0,0,4,0,0,aff_eco,153,André Villiers
+435,pascale boyer,52,1965,F,LREM,collab,5,0,0,0,1,0,0,0,0,0,dvp_durable,315,Pascale Boyer
+436,jean hugues ratenon,50,1967,M,LFI,employe,0,0,0,0,0,0,0,0,0,0,aff_soc,619,Jean-Hugues Ratenon
+437,stephane buchou,43,1974,M,LREM,cadsupprive,0,0,9,0,0,0,0,0,0,0,dvp_durable,632,Stéphane Buchou
+438,gwendal rouillard,41,1976,M,LREM,collab,11,0,1,0,0,0,6,0,0,0,defense,354,Gwendal Rouillard
+439,valeria faure muntian,33,1984,F,LREM,cadinterprive,0,0,0,0,0,0,0,0,0,0,aff_eco,552,Valéria Faure-Muntian
+440,francoise dumas,57,1960,F,LREM,collab,8,0,1,0,0,5,5,0,0,0,defense,413,Françoise Dumas
+441,pieyre alexandre anglade,31,1986,M,LREM,collab,7,0,0,0,0,0,0,0,0,0,defense,227,Pieyre-Alexandre Anglade
+442,florence lasserre david,43,1974,F,MODEM,cadinterprive,0,0,0,0,2,0,0,0,0,0,dvp_durable,251,Florence Lasserre-David
+443,martial saddier,48,1969,M,LR,cadsupprive,0,2,7,16,0,2,15,0,0,0,dvp_durable,21,Martial Saddier
+444,claire guion firmin,60,1957,F,LR,cadinterprive,0,0,7,0,0,0,0,0,0,0,aff_soc,40,Claire Guion-Firmin
+445,valerie boyer,55,1962,F,LR,cadsuppub,0,0,14,3,0,0,10,0,0,0,aff_etranger,82,Valérie Boyer
+446,jerome nury,45,1972,M,LR,collab,16,0,0,9,13,1,0,0,0,0,aff_soc,30,Jérôme Nury
+447,xavier roseren,47,1970,M,LREM,artisan commercant chef entrep,0,0,0,3,0,0,0,0,0,0,finances,394,Xavier Roseren
+448,jean charles taugourdeau,64,1953,M,LR,artisan commercant chef entrep,0,0,0,26,12,0,15,0,0,0,aff_eco,36,Jean-Charles Taugourdeau
+449,jean francois eliaou,61,1956,M,LREM,proflib,0,0,0,0,0,0,0,0,0,0,defense,551,Jean-François Eliaou
+450,dino cinieri,62,1955,M,LR,artisan commercant chef entrep,1,0,13,8,0,7,15,0,0,0,aff_eco,64,Dino Cinieri
+451,cathy racon bouzon,41,1976,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,cult_educ,336,Cathy Racon-Bouzon
+452,pascal bois,58,1959,M,LREM,cadsupprive,0,0,22,0,0,0,0,0,0,0,cult_educ,414,Pascal Bois
+453,natalia pouzyreff,56,1961,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,defense,228,Natalia Pouzyreff
+454,veronique louwagie,56,1961,F,LR,cadsupprive,0,0,14,3,4,3,5,0,0,0,finances,97,Véronique Louwagie
+455,max mathiasin,61,1956,M,MODEM,cadsuppub,0,0,10,0,9,0,0,0,0,0,aff_eco,188,Max Mathiasin
+456,antoine herth,54,1963,M,LC,agri,0,0,20,0,0,6,15,0,0,0,aff_eco,143,Antoine Herth
+457,remi delatte,61,1956,M,LR,agri,0,0,13,22,0,10,10,0,0,0,aff_eco,117,Rémi Delatte
+458,george pau langevin,69,1948,F,NG,proflib,7,0,14,0,0,7,7,0,0,5,cult_educ,511,George Pau-Langevin
+459,frederique dumas,54,1963,F,LREM,artisan commercant chef entrep,0,3,9,0,0,9,0,0,0,0,cult_educ,411,Frédérique Dumas
+460,anne laurence petel,47,1970,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,440,Anne-Laurence Petel
+461,laetitia avia,32,1985,F,LREM,proflib,0,0,0,0,0,0,0,0,0,0,lois,384,Laetitia Avia
+462,gisele biemouret,65,1952,F,NG,collab,0,0,14,0,15,0,10,0,0,0,cult_educ,515,Gisèle Biémouret
+463,josette manin,67,1950,F,NG,cadinterprive,0,0,34,0,15,0,0,0,0,0,cult_educ,581,Josette Manin
+464,nicole sanquer,45,1972,F,LC,profsecondaire,0,0,0,0,4,0,0,0,0,3,aff_soc,145,Nicole Sanquer
+465,anthony cellier,42,1975,M,LREM,cadsupprive,0,0,3,0,0,0,0,0,0,0,aff_eco,615,Anthony Cellier
+466,mansour kamardine,58,1959,M,LR,cadinterpub,0,0,0,9,15,0,6,0,0,0,lois,98,Mansour Kamardine
+467,patricia gallerneau,63,1954,F,MODEM,cadinterpub,0,0,5,0,0,2,0,0,0,0,aff_soc,176,Patricia Gallerneau
+468,vincent bru,62,1955,M,MODEM,profscientif,0,0,0,22,16,0,0,0,0,0,lois,168,Vincent Bru
+469,jean luc reitzer,66,1951,M,LR,cadsupprive,0,2,7,34,24,3,29,0,0,0,aff_etranger,75,Jean-Luc Reitzer
+470,thierry solere,46,1971,M,LC,collab,11,0,13,0,12,2,5,0,0,0,cult_educ,381,Thierry Solère
+472,anne genetet,54,1963,F,LREM,proflib,0,0,0,0,0,0,0,0,0,0,aff_etranger,351,Anne Genetet
+473,pierre henriet,26,1991,M,LREM,profsecondaire,0,0,3,0,0,0,0,0,0,0,cult_educ,466,Pierre Henriet
+474,adrien quatennens,27,1990,M,LFI,cadinterprive,0,0,0,0,0,0,0,0,0,0,aff_soc,612,Adrien Quatennens
+475,annie genevard,61,1956,F,LR,profsecondaire,0,0,8,15,0,9,5,0,0,0,cult_educ,90,Annie Genevard
+476,albane gaillot,46,1971,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_soc,216,Albane Gaillot
+477,olivier falorni,45,1972,M,NI,profsecondaire,0,0,12,0,0,3,5,0,0,0,dvp_durable,190,Olivier Falorni
+478,monica michel,62,1955,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,244,Monica Michel
+479,manuel valls,55,1962,M,LREM,collab,4,9,17,12,0,17,11,0,0,4,lois,339,Manuel Valls
+480,patrice verchere,44,1973,M,LR,collab,9,0,15,9,0,2,10,0,0,0,defense,126,Patrice Verchère
+481,laurence dumont,59,1958,F,NG,collab,8,3,11,0,0,4,16,5,0,0,aff_etranger,509,Laurence Dumont
+482,sophie beaudouin hubiere,45,1972,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,567,Sophie Beaudouin-Hubiere
+483,jean louis touraine,72,1945,M,LREM,proflib,0,0,23,7,4,0,10,0,0,0,aff_soc,285,Jean-Louis Touraine
+484,elisabeth toutut picard,63,1954,F,LREM,HFP,0,0,0,0,0,0,0,0,0,0,aff_soc,331,Élisabeth Toutut-Picard
+485,nicole le peih,58,1959,F,LREM,agri,0,0,16,0,0,2,0,0,0,0,aff_etranger,220,Nicole Le Peih
+486,charles de la verpilliere,63,1954,M,LR,HFP,0,0,0,10,29,0,10,0,0,0,defense,26,Charles de la Verpillière
+487,bruno studer,39,1978,M,LREM,profsecondaire,0,0,0,0,0,0,0,0,0,0,cult_educ,478,Bruno Studer
+488,didier baichere,47,1970,M,LREM,cadsupprive,0,0,3,0,0,0,0,0,0,0,defense,321,Didier Baichère
+489,laurence maillart mehaignerie,50,1967,F,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,dvp_durable,569,Laurence Maillart-Méhaignerie
+490,beatrice piron,52,1965,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,cult_educ,391,Béatrice Piron
+491,helene vainqueur christophe,61,1956,F,NG,proflib,0,0,0,5,0,11,3,0,0,0,aff_soc,496,Hélène Vainqueur-Christophe
+492,perrine goulet,39,1978,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,finances,460,Perrine Goulet
+493,jean felix acquaviva,44,1973,M,NI,cadsupprive,0,0,0,9,0,2,0,0,0,0,cult_educ,650,Jean-Félix Acquaviva
+494,dominique david,54,1963,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,finances,644,Dominique David
+495,nathalie elimas,44,1973,F,MODEM,instit,0,0,0,0,0,2,0,0,0,0,aff_soc,173,Nathalie Elimas
+496,xavier batut,41,1976,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,defense,625,Xavier Batut
+497,jean luc warsmann,52,1965,M,LC,cadsupprive,0,4,7,20,16,7,22,0,0,0,lois,106,Jean-Luc Warsmann
+498,gregory galbadon,45,1973,M,LREM,cadsuppublic,0,0,0,3,0,0,0,0,0,0,cult_educ,XX,gregory galbadon
+499,aude amadou,37,1980,F,LREM,employe,0,0,0,0,0,0,0,0,0,0,cult_educ,409,Aude Amadou
+500,delphine batho,44,1973,F,NG,collab,9,0,0,0,0,0,10,0,0,2,aff_eco,500,Delphine Batho
+501,jean luc lagleize,59,1958,M,MODEM,artisan commercant chef entrep,0,0,16,0,0,0,0,0,0,0,aff_eco,186,Jean-Luc Lagleize
+502,richard lioger,60,1957,M,LREM,profscientif,0,0,3,0,0,0,0,0,0,0,aff_eco,325,Richard Lioger
+503,benedicte taurine,41,1976,F,LFI,profsecondaire,0,0,0,0,0,0,0,0,0,0,aff_eco,609,Bénédicte Taurine
+504,anne brugnera,47,1970,F,LREM,cadsuppub,0,0,3,0,0,0,0,0,0,0,cult_educ,434,Anne Brugnera
+505,yves blein,63,1954,M,LREM,cadsupprive,4,2,7,16,0,0,5,0,0,0,aff_eco,421,Yves Blein
+506,olga givernet,36,1981,F,LREM,cadsupprive,0,0,3,0,0,2,0,0,0,0,aff_etranger,572,Olga Givernet
+507,dimitri houbron,26,1991,M,LREM,cadinterpub,0,0,0,0,0,0,0,0,0,0,lois,406,Dimitri Houbron
+508,eric alauzet,59,1958,M,LREM,proflib,0,0,12,0,7,7,5,0,0,0,finances,464,Éric Alauzet
+509,bruno joncour,64,1953,M,MODEM,cadinterpub,0,0,34,16,14,25,0,0,0,0,aff_etranger,179,Bruno Joncour
+510,francois de rugy,44,1973,M,LREM,collab,6,0,14,0,0,0,10,0,0,0,President,494,François de Rugy
+511,huguette bello,67,1950,F,GDR,instit,0,0,19,7,7,4,20,0,0,0,lois,594,Huguette Bello
+512,fabrice brun,49,1968,M,LR,artisan commercant chef entrep,10,0,8,0,0,2,0,0,0,0,dvp_durable,137,Fabrice Brun
+513,jean philippe nilor,52,1965,M,GDR,collab,6,0,4,0,11,11,5,0,0,0,aff_soc,595,Jean-Philippe Nilor
+514,jean michel mis,50,1967,M,LREM,cadsupprive,22,0,5,0,0,0,0,0,0,0,lois,430,Jean-Michel Mis
+515,josiane corneloup,58,1959,F,LR,proflib,0,0,28,3,2,0,0,0,0,0,aff_soc,6,Josiane Corneloup
+516,napole polutele,53,1964,M,LC,profsecondaire,0,0,0,0,0,4,4,0,0,0,dvp_durable,XX,
+517,yannick kerlogot,47,1970,M,LREM,instit,0,0,9,0,2,0,0,0,0,0,cult_educ,368,Yannick Kerlogot
+518,benjamin dirx,38,1979,M,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_etranger,205,Benjamin Dirx
+519,stella dupont,44,1973,F,LREM,proflib,0,0,8,9,0,2,0,0,0,0,finances,527,Stella Dupont
+520,loic dombreval,51,1966,M,LREM,proflib,0,0,0,3,0,2,0,0,0,0,dvp_durable,402,Loïc Dombreval
+521,michel delpon,68,1949,M,LREM,cadsupprive,0,0,8,0,0,0,0,0,0,0,aff_eco,437,Michel Delpon
+522,huguette tiegna,35,1982,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,455,Huguette Tiegna
+523,jean paul dufregne,59,1958,M,GDR,cadsupprive,0,0,28,14,19,0,0,0,0,0,finances,591,Jean-Paul Dufrègne
+524,hubert julien laferriere,51,1966,M,LREM,profsecondaire,0,0,22,9,0,0,0,0,0,0,aff_etranger,308,Hubert Julien-Laferriere
+525,matthieu orphelin,45,1972,M,LREM,cadsuppub,0,0,0,0,0,6,0,0,0,0,dvp_durable,428,Matthieu Orphelin
+526,sebastien huyghe,48,1969,M,LR,proflib,0,0,2,0,0,7,15,0,0,0,lois,43,Sébastien Huyghe
+527,jean jacques bridey,64,1953,M,LREM,cadsupprive,0,0,0,16,12,0,5,0,0,0,defense,454,Jean-Jacques Bridey
+528,bruno fuchs,58,1959,M,MODEM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_etranger,181,Bruno Fuchs
+529,zivka park,32,1985,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,dvp_durable,204,Zivka Park
+531,sophie mette,58,1959,F,MODEM,NA,0,0,16,0,0,3,0,0,0,0,cult_educ,256,Sophie Mette
+532,stephanie do,38,1979,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_eco,341,Stéphanie Do
+533,marie george buffet,68,1949,F,GDR,collab,0,0,23,0,0,13,16,0,0,6,cult_educ,593,Marie-George Buffet
+534,loic prud homme,48,1969,M,LFI,cadinterpub,0,0,0,0,0,0,0,0,0,0,dvp_durable,621,Loïc Prud'homme
+535,cedric villani,44,1973,M,LREM,profscientif,0,0,0,0,0,0,0,0,0,0,lois,356,Cédric Villani
+536,justine benin,42,1975,F,MODEM,cadinterpub,0,0,0,0,6,6,0,0,0,0,aff_soc,189,Justine Benin
+538,bernard perrut,60,1957,M,LR,collab,11,0,26,9,0,6,20,0,0,0,aff_soc,108,Bernard Perrut
+539,celine calvez,38,1979,F,LREM,cadsupprive,0,2,0,0,0,0,0,0,0,0,cult_educ,270,Céline Calvez
+540,alice thourot,32,1985,F,LREM,proflib,0,0,0,0,0,0,0,0,0,0,lois,452,Alice Thourot
+541,emilie bonnivard,37,1980,F,LR,collab,3,0,3,0,0,2,0,0,0,0,finances,9,Émilie Bonnivard
+542,michel vialay,57,1960,M,LR,cadsupprive,0,0,11,12,5,0,0,0,0,0,dvp_durable,148,Michel Vialay
+543,christelle dubos,41,1976,F,LREM,cadinterpub,0,0,3,0,0,0,0,0,0,0,aff_eco,370,Christelle Dubos
+544,daniele cazarian,52,1965,F,LREM,cadsupprive,0,0,6,0,0,0,0,0,0,0,cult_educ,624,Danièle Cazarian
+545,valerie thomas,49,1968,F,LREM,collab,8,0,0,0,0,0,0,0,0,0,aff_etranger,534,Valérie Thomas
+546,liliana tanguy,50,1967,F,LREM,cadsuppub,0,0,3,0,0,0,0,0,0,0,aff_etranger,398,Liliana Tanguy
+547,laure de la raudiere,52,1965,F,LC,artisan commercant chef entrep,0,0,12,5,2,5,10,0,0,0,aff_eco,133,Laure de La Raudière
+548,sophie errante,46,1971,F,LREM,artisan commercant chef entrep,0,0,0,7,0,0,5,0,0,0,aff_eco,361,Sophie Errante
+549,frederique tuffnell,61,1956,F,LREM,cadsuppub,0,0,3,0,0,0,0,0,0,0,dvp_durable,346,Frédérique Tuffnell
+550,xavier paluszkiewicz,45,1972,M,LREM,cadinterprive,0,0,0,3,0,0,0,0,0,0,finances,541,Xavier Paluszkiewicz
+551,stephane viry,48,1969,M,LR,proflib,0,0,16,0,0,0,0,0,0,0,aff_soc,23,Stéphane Viry
+552,dominique da silva,49,1968,M,LREM,artisan commercant chef entrep,0,0,9,0,0,0,0,0,0,0,aff_soc,223,Dominique Da Silva
+553,charles de courson,65,1952,M,LC,HFP,0,5,2,31,31,4,24,0,0,0,finances,147,Charles de Courson
+554,jean marie fievet,53,1964,M,LREM,cadinterpub,0,0,0,0,0,0,0,0,0,0,defense,560,Jean-Marie Fiévet
+555,marguerite deprez audebert,65,1952,F,MODEM,cadinterprive,0,0,0,0,0,2,0,0,0,0,aff_eco,170,Marguerite Deprez-Audebert
+556,typhanie degois,24,1993,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,lois,350,Typhanie Degois
+557,nicole trisse,54,1963,F,LREM,cadinterprive,0,0,0,0,0,0,0,0,0,0,defense,446,Nicole Trisse
+558,frederic descrozaille,50,1967,M,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,aff_etranger,467,Frédéric Descrozaille
+559,jean francois cesarini,47,1970,M,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,dvp_durable,536,Jean-François Cesarini
+560,laetitia saint paul,36,1981,F,LREM,cadsuppub,0,0,0,0,0,0,0,0,0,0,aff_etranger,364,Laetitia Saint-Paul
+561,beatrice descamps,56,1961,F,LC,instit,0,0,9,0,2,0,0,0,0,0,cult_educ,157,Béatrice Descamps
+562,cendra motin,42,1975,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,finances,385,Cendra Motin
+563,moetai brotherson,48,1969,M,GDR,artisan commercant chef entrep,3,0,0,0,0,0,0,0,0,0,aff_etranger,582,Moetai Brotherson
+564,jean philippe ardouin,53,1964,M,LREM,artisan commercant chef entrep,0,0,7,0,0,0,0,0,0,0,defense,526,Jean-Philippe Ardouin
+565,olivier marleix,46,1971,M,LR,collab,11,11,0,9,7,0,5,3,0,0,lois,33,Olivier Marleix
+566,christophe di pompeo,53,1964,M,LREM,profscientif,0,0,14,0,0,12,0,0,0,0,aff_etranger,553,Christophe Di Pompeo
+567,emilie cariou,46,1971,F,LREM,cadsuppub,0,5,0,0,0,0,0,0,0,0,finances,638,Émilie Cariou
+568,sandrine morch,56,1961,F,LREM,infocom,0,0,0,0,0,0,0,0,0,0,cult_educ,278,Sandrine Mörch
+569,stephane mazars,48,1969,M,LREM,proflib,0,0,9,0,2,0,3,3,0,0,lois,407,Stéphane Mazars
+570,patrick hetzel,53,1964,M,LR,profscientif,0,6,0,0,0,0,5,0,0,0,finances,79,Patrick Hetzel
+571,mireille clapot,54,1963,F,LREM,cadsupprive,5,0,0,0,0,0,0,0,0,0,aff_etranger,358,Mireille Clapot
+572,alexandra louis,34,1983,F,LREM,proflib,0,0,0,0,0,0,0,0,0,0,lois,456,Alexandra Louis
+573,remy rebeyrotte,51,1966,M,LREM,collab,4,2,10,16,22,4,0,0,0,0,lois,332,Rémy Rebeyrotte
+574,jacques savatier,65,1952,M,LREM,cadsuppub,0,0,14,0,0,0,0,0,0,0,finances,639,Jacques Savatier
+575,eric pauget,47,1970,M,LR,cadsupprive,0,0,22,0,16,0,0,0,0,0,aff_eco,149,Éric Pauget
+576,richard ferrand,55,1962,M,LREM,cadsupprive,0,3,0,0,14,6,5,0,0,0,defense,422,Richard Ferrand
+577,paula forteza,31,1986,F,LREM,cadsupprive,0,0,0,0,0,0,0,0,0,0,lois,450,Paula Forteza
+578,severine gipson,47,1970,F,LREM,cadinterprive,0,0,0,3,0,0,0,0,0,0,finances,365,Séverine Gipson
+579,gregory galbadon,44,1973,M,LREM,cadinterpub,0,0,9,3,0,0,0,0,0,0,cult_educ,226,Grégory Galbadon
+580,stephane claireaux,53,1964,M,LREM,collab,13,0,0,0,0,0,3,0,0,0,cult_educ,599,Stéphane Claireaux
+581,emmanuelle fontaine domeizel,44,1973,F,LREM,proflib,0,0,0,0,2,0,0,0,0,0,aff_soc,447,Emmanuelle Fontaine-Domeizel
+582,delphine o,32,1985,F,LREM,artisan commercant chef entrep,0,0,0,0,0,0,0,0,0,0,aff_etranger,240,Delphine O
+583,adrien morenas,35,1982,M,LREM,cadinterpub,0,0,0,0,0,0,0,0,0,0,dvp_durable,571,Adrien Morenas
+584,fabien laine,41,1976,M,MODEM,artisan commercant chef entrep,0,0,0,3,0,0,0,0,0,0,defense,249,Fabien Lainé
+585,elise fajgeles,47,1970,F,LREM,cadsuppub,0,0,9,0,0,0,0,0,0,0,lois,461,Élise Fajgeles
