@@ -1257,7 +1257,7 @@
 	var essai=hemicycle.set();
 	
 	
-	couleur(hemi);
+	//couleur(hemi);
 	
 	/*
 	var i=1;

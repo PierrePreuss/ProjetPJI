@@ -4772,6 +4772,7 @@
 <script type="text/javascript" src="hemi.js" charset="utf-8"></script>
 
 
+
 <?php
 $file=fopen("bdd.csv","r");
 while(!feof($file))
@@ -4779,25 +4780,25 @@ while(!feof($file))
 	$content=fgetcsv($file);
 	$count=count($content);
 
-		echo $content[0]."\t";
-		echo $content[4]."\t";
+		//echo $content[18]."\t";
+		//echo $content[4]."\t";
+		
+		$data = array();
+		array_push($data["id"]= $content[18]);
 		if($content[4] == "M"){
-?>
-<script type="text/javascript">
-		"le siege M" == '#0000FF';
-</script>
-<?php	
-		}elseif($content[4]=="F"){
-?>
-<script type="text/javascript">		
-		"le siege F == Rose"	
-</script>
-<?php
+			array_push($data["color"]= "#2C75FF");
+		}elseif($content[4] == "F"){
+			array_push($data["color"]= "#FF0000");
 		}
+		$myJson = json_encode( $data );
+	
+		echo $myJson;
 	
 echo "<br/>";
 }
 ?>
+
+
 
     <script>
 	    var _gaq = [['_setAccount', 'UA-40085081-1'], ['_trackPageview']];

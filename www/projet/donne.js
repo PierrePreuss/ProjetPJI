@@ -3,14 +3,13 @@
  */
 
 
-var data1 = [
+
+var donne = {
+	"data1" : [
  {"ratio": 30, "label": "homme"},
  {"ratio": 70, "label": "femme"}
-];
-
-
-
-var data2 = [
+],
+	"data2" : [
  {"ratio": 3, "label": "NI"},
  {"ratio": 17, "label": "Républicain"},
  {"ratio": 5, "label": "Les Constructifs"},
@@ -19,7 +18,9 @@ var data2 = [
  {"ratio": 5, "label": "NG"},
  {"ratio": 3, "label": "FI"},
  {"ratio": 3, "label": "GDR"}
-];
+]
+
+};
 
 
 
@@ -42,24 +43,28 @@ $('#rech').change(function(){
 		
 		
     var hash = $(this).find("option:selected").val();
-    
+    var data = donne[hash];
+    var k = data.length;
+
 	
+	/*
         if (hash == 1) {
              data =  data1;
              console.log(data);
 		}else{
 			if(hash == 2) data = data2;
-		}
+		}*/
 	
 
 		
-    for (var j = 0; j < data.length; j++){
+    for (var j = 0; j < k; j++){
+	
 		 values.push(parseInt(data[j].ratio, 10));
         labels.push(data[j].label + " " + data[j].ratio +"%");
 
 	}
 	
-	var k = data.length;
+	
     for (var i = k-1; i >=0; i--){
         document.getElementById('legende' ).append(labels[i] + " | ");
 	}
