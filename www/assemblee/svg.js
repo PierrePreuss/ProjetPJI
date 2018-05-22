@@ -1,3 +1,67 @@
+var test = {
+	"data1" : [
+	  { "label": "M" },
+     {"label": "M" },
+     { "label": "F"},
+    { "label": "M" },
+     { "label": "M"},
+     {"label": "F" },
+    {"label": "M" },
+     { "label": "F" },
+    { "label": "M" },
+	{"label": "F" },
+    { "label": "M" },
+	{ "label": "F" },
+	{"label": "M" }
+
+]
+};
+
+
+
+
+
+var test2 = {
+  1:   { "label": "M" },
+  2:   { "label": "M" },
+  3:   {"label": "M" },
+  5:   { "label": "F" },
+  6:   { "label": "F" },
+  7:   {"label": "M" },
+  8:   {"label": "M" },
+  9:   {"label": "F" },
+  10:  {"label": "M" },
+  11:  { "label": "M" },
+  12:  { "label": "M" },
+   13:  {"label": "F" },
+  14:  { "label": "F" },
+  15:  { "label": "F" },
+  16:  { "label": "M" },
+  17:  { "label": "M" },
+  18:  { "label": "M" },
+  19:  { "label": "F" },
+  20:  { "label": "M" },
+  21:  {"label": "F" },
+  22:  { "label": "M"},
+  23:  {"label": "F" },
+  24:  { "label": "M" },
+  25:  { "label": "M" },
+  26:  { "label": "M"},
+  27:  { "label": "M" },
+  28:  { "label": "M" },
+  30:  { "label": "M" },
+  31:  {"label": "M" },
+  32:  { "label": "M" },
+  33:  { "label": "M"}
+ 
+};
+
+
+var sexe = {
+  1:   { fill: '#B53333' },
+  2:   { fill: '#314fe7' },
+};
+
 var siege = {
   1:   { fill: '#000001', 'hover': "M. Sébastien Leclerc" },
   2:   { fill: '#000002', 'hover': "M. Jean-Yves Bony" },

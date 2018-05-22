@@ -1,7 +1,3 @@
- /**
- * @author code issus du site http://www2.assemblee-nationale.fr/deputes/hemicycle
- */
-
  $(document).ready(function() 
   {
  
@@ -1282,7 +1278,37 @@
 				
 				hemi[hash]=hemi[hash].next;
 			}*/
+	$('#rec').change(function(){
+	/*   var values = [],
+        labels = [];
+		
+		var data =[];
+
+		
+		
+    var hash = $(this).find("option:selected").val();
+    var data = test[hash];
+   var k = data.length; */
+
+				var i=1;
+				for(i=0;i<34;i++){
+					var hash= "s"+i;
+					/* console.log(siege[i]); */
+					if(typeof test2[i] === 'undefined'){
+						
+					}else{
+						if(test2[i].label == "M"){
+							hemi[hash].attr(sexe[2]);
+						}else{
+
+						hemi[hash].attr(sexe[1]);
+						}	
+					}
+				}
+
 	
+
+});
 	 
 /*
 			//var depute=$('#contenu-page').data('places');

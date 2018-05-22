@@ -1,9 +1,3 @@
-/**
- * @author hayaert thomas/ preuss pierre
- */
-
-
-
 var donne = {
 	"data1" : [
  {"ratio": 30, "label": "homme"},
